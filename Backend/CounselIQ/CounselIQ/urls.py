@@ -22,5 +22,6 @@ urlpatterns = [
     path('api/', include('api.urls')),
     path('accounts/', include('accounts.urls')),
     path('prediction/', include('prediction.urls')),
-    path('colleges/',include('colleges.urls'))
+    path('colleges/',include('colleges.urls')),
+    path('chatbot/', include('chatbot.urls')),
 ]

@@ -10,6 +10,7 @@ import PredictionForm from './pages/PredictionForm';
 import BrowseColleges from './pages/BrowseColleges';
 import Navbar from './components/Navbar';
 import Footer from './components/Footer';
+import ChatWidget from './components/ChatWidget';
 import { useState,useEffect } from 'react';
 
 const PrivateRoute = ({ children,token }) => {
@@ -65,6 +66,7 @@ function App() {
         />
         <Route path='/colleges' element={<BrowseColleges />} />
       </Routes>
+      <ChatWidget/>
       </div>
       <Footer/>
     </Router>
