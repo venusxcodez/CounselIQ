@@ -1,0 +1,2001 @@
+college_name,stream,exam_type,category,user_marks,cutoff_2022,cutoff_2023,cutoff_2024,chances_of_admission
+BITS Pilani,Mechanical Engineering,JEE,GEN,319,338,339,339,50
+DU Delhi,BSc,CUET,SC,306,311,311,314,50
+IIIT Hyderabad,Civil Engineering,JEE,SC,294,264,266,269,95
+PGIMER Chandigarh,Physiotherapy,NEET,EWS,555,537,538,538,95
+St. Xavier Kolkata,BSc,CUET,SC,346,321,323,326,95
+JIPMER Puducherry,Physiotherapy,NEET,ST,602,611,612,612,50
+JIPMER Puducherry,Dental,NEET,GEN,704,699,700,701,70
+IIT Delhi,Chemical Engineering,JEE,EWS,319,331,332,333,50
+PGIMER Chandigarh,MBBS,NEET,SC,642,636,637,640,70
+IIT Delhi,Civil Engineering,JEE,EWS,285,276,278,280,80
+NIT Surathkal,Electrical Engineering,JEE,ST,262,256,256,258,70
+IIT Delhi,Electrical Engineering,JEE,SC,329,325,326,326,70
+AIIMS Delhi,Dental,NEET,OBC,548,559,562,564,50
+Lady Shri Ram College Delhi,BCA,CUET,ST,351,322,325,326,95
+IIT Bombay,Information Technology,JEE,GEN,309,324,325,328,50
+VIT Vellore,Civil Engineering,JEE,SC,316,299,299,302,90
+BITS Pilani,Information Technology,JEE,ST,235,209,210,212,95
+PGIMER Chandigarh,Physiotherapy,NEET,EWS,483,501,503,505,50
+Lady Shri Ram College Delhi,BBA,CUET,SC,334,328,328,330,70
+AIIMS Delhi,Physiotherapy,NEET,SC,577,564,564,565,90
+IIT Delhi,Information Technology,JEE,SC,217,201,204,204,90
+IIT Bombay,Chemical Engineering,JEE,ST,236,211,211,211,95
+AIIMS Delhi,Physiotherapy,NEET,OBC,580,579,582,584,50
+St. Xavier Kolkata,BSc,CUET,OBC,244,248,248,250,50
+MIT Pune,Chemical Engineering,JEE,ST,236,205,207,209,95
+JIPMER Puducherry,MBBS,NEET,ST,497,498,498,499,50
+Christ University Bengaluru,BCA,CUET,OBC,290,282,285,287,70
+JIPMER Puducherry,Dental,NEET,OBC,575,571,571,573,70
+NIT Surathkal,Civil Engineering,JEE,GEN,329,328,329,330,50
+St. Xavier Kolkata,BSc,CUET,GEN,289,292,293,294,50
+KEM Mumbai,Physiotherapy,NEET,SC,646,632,634,637,80
+AIIMS Delhi,Dental,NEET,EWS,669,638,638,639,95
+AIIMS Delhi,Ayurvedic,NEET,OBC,614,593,596,599,95
+JIPMER Puducherry,MBBS,NEET,OBC,553,570,573,574,50
+JIPMER Puducherry,Dental,NEET,GEN,642,631,631,632,90
+Christ University Bengaluru,BCA,CUET,EWS,263,249,251,254,80
+MIT Pune,Electronics and Communication Engineering,JEE,EWS,285,281,281,282,70
+VIT Vellore,Mechanical Engineering,JEE,GEN,309,329,331,332,50
+CMC Vellore,Ayurvedic,NEET,EWS,611,610,610,613,50
+IIIT Hyderabad,Electrical Engineering,JEE,OBC,228,233,234,235,50
+VIT Vellore,Information Technology,JEE,GEN,299,286,289,291,80
+VIT Vellore,Mechanical Engineering,JEE,SC,244,238,241,242,70
+Lady Shri Ram College Delhi,BBA,CUET,OBC,307,310,313,315,50
+NIT Surathkal,Information Technology,JEE,SC,242,238,241,242,70
+St. Xavier Kolkata,BBA,CUET,EWS,294,310,313,315,50
+NIT Surathkal,Mechanical Engineering,JEE,SC,226,196,198,200,95
+CMC Vellore,MBBS,NEET,GEN,670,662,662,662,80
+CMC Vellore,MBBS,NEET,OBC,677,689,689,690,50
+Christ University Bengaluru,BCA,CUET,GEN,282,273,274,274,80
+Lady Shri Ram College Delhi,BBA,CUET,EWS,310,306,309,309,70
+St. Xavier Kolkata,BSc,CUET,EWS,326,304,305,306,95
+Lady Shri Ram College Delhi,BCA,CUET,OBC,268,247,247,249,95
+St. Xavier Kolkata,BBA,CUET,ST,247,241,243,244,70
+IIT Delhi,Civil Engineering,JEE,GEN,294,303,304,306,50
+IIIT Hyderabad,Information Technology,JEE,SC,321,313,313,315,80
+PGIMER Chandigarh,Ayurvedic,NEET,SC,632,618,620,623,80
+KEM Mumbai,Dental,NEET,GEN,685,684,684,684,70
+NIT Trichy,Chemical Engineering,JEE,OBC,244,232,234,235,80
+MIT Pune,Chemical Engineering,JEE,ST,239,207,208,211,95
+Christ University Bengaluru,BCA,CUET,EWS,356,332,335,335,95
+Lady Shri Ram College Delhi,BBA,CUET,SC,299,274,274,277,95
+PGIMER Chandigarh,MBBS,NEET,SC,538,506,509,511,95
+AIIMS Delhi,Dental,NEET,GEN,683,658,661,663,95
+CMC Vellore,Dental,NEET,ST,608,590,592,595,90
+PGIMER Chandigarh,Ayurvedic,NEET,EWS,552,521,523,526,95
+JIPMER Puducherry,Ayurvedic,NEET,ST,585,543,545,547,95
+AIIMS Delhi,Physiotherapy,NEET,EWS,615,632,632,632,50
+CMC Vellore,Physiotherapy,NEET,EWS,566,561,562,562,70
+MIT Pune,Electronics and Communication Engineering,JEE,SC,212,220,221,222,50
+Lady Shri Ram College Delhi,BCA,CUET,OBC,324,322,323,326,50
+DU Delhi,BSc,CUET,EWS,247,255,255,256,50
+IIT Bombay,Electronics and Communication Engineering,JEE,EWS,284,260,262,265,95
+Lady Shri Ram College Delhi,BBA,CUET,OBC,359,336,336,337,95
+St. Xavier Kolkata,BSc,CUET,EWS,275,263,264,264,90
+St. Xavier Kolkata,BBA,CUET,OBC,250,256,257,258,50
+AIIMS Delhi,Dental,NEET,EWS,499,499,502,504,50
+KEM Mumbai,MBBS,NEET,OBC,672,688,691,694,50
+Lady Shri Ram College Delhi,BBA,CUET,SC,293,258,261,262,95
+CMC Vellore,Physiotherapy,NEET,GEN,620,621,621,621,50
+St. Xavier Kolkata,BCA,CUET,SC,307,304,305,305,70
+JIPMER Puducherry,MBBS,NEET,ST,551,548,548,550,70
+St. Xavier Kolkata,BCA,CUET,EWS,337,339,340,340,50
+NIT Surathkal,Electronics and Communication Engineering,JEE,EWS,344,341,343,343,70
+AIIMS Delhi,Ayurvedic,NEET,EWS,578,558,561,563,95
+CMC Vellore,Physiotherapy,NEET,ST,568,550,553,553,95
+JIPMER Puducherry,Physiotherapy,NEET,OBC,514,531,534,535,50
+IIT Delhi,Information Technology,JEE,EWS,210,206,206,207,70
+KEM Mumbai,MBBS,NEET,GEN,647,639,641,643,70
+IIT Bombay,Computer Science and Engineering,JEE,ST,310,291,293,296,90
+PGIMER Chandigarh,Dental,NEET,EWS,626,604,606,607,95
+JIPMER Puducherry,Ayurvedic,NEET,OBC,589,616,618,620,50
+IIIT Hyderabad,Civil Engineering,JEE,ST,290,273,275,277,90
+CMC Vellore,MBBS,NEET,ST,639,591,594,594,95
+IIIT Hyderabad,Mechanical Engineering,JEE,OBC,213,222,223,225,50
+JIPMER Puducherry,Dental,NEET,SC,531,503,505,508,95
+Christ University Bengaluru,BBA,CUET,EWS,331,336,338,340,50
+NIT Surathkal,Chemical Engineering,JEE,SC,294,278,279,279,95
+IIT Bombay,Civil Engineering,JEE,SC,200,192,193,195,80
+St. Xavier Kolkata,BCA,CUET,OBC,326,303,305,307,95
+NIT Trichy,Civil Engineering,JEE,SC,261,262,265,268,50
+JIPMER Puducherry,MBBS,NEET,ST,596,553,555,557,95
+AIIMS Delhi,MBBS,NEET,ST,692,647,648,649,95
+IIIT Hyderabad,Mechanical Engineering,JEE,OBC,331,345,347,350,50
+Lady Shri Ram College Delhi,BSc,CUET,OBC,261,248,249,251,90
+Lady Shri Ram College Delhi,BSc,CUET,GEN,337,349,352,355,50
+MIT Pune,Civil Engineering,JEE,GEN,250,261,262,265,50
+Lady Shri Ram College Delhi,BCA,CUET,EWS,281,292,295,298,50
+CMC Vellore,Physiotherapy,NEET,GEN,517,536,536,539,50
+NIT Surathkal,Information Technology,JEE,ST,357,325,326,326,95
+St. Xavier Kolkata,BBA,CUET,ST,360,327,328,329,95
+DU Delhi,BSc,CUET,GEN,251,263,266,266,50
+Lady Shri Ram College Delhi,BSc,CUET,GEN,328,327,329,332,50
+St. Xavier Kolkata,BCA,CUET,GEN,266,278,280,282,50
+DU Delhi,BCA,CUET,GEN,316,299,299,300,95
+Christ University Bengaluru,BSc,CUET,SC,292,277,277,278,90
+DU Delhi,BSc,CUET,ST,256,251,254,257,50
+BITS Pilani,Information Technology,JEE,OBC,221,226,229,231,50
+DU Delhi,BSc,CUET,EWS,239,251,251,254,50
+PGIMER Chandigarh,Dental,NEET,GEN,699,672,673,673,95
+KEM Mumbai,MBBS,NEET,ST,674,646,648,651,95
+BITS Pilani,Electronics and Communication Engineering,JEE,OBC,362,344,344,346,95
+MIT Pune,Electrical Engineering,JEE,ST,328,323,326,328,70
+JIPMER Puducherry,Dental,NEET,SC,591,603,606,606,50
+St. Xavier Kolkata,BBA,CUET,ST,338,328,331,333,80
+NIT Surathkal,Mechanical Engineering,JEE,SC,294,261,262,264,95
+NIT Trichy,Civil Engineering,JEE,GEN,284,268,268,270,90
+St. Xavier Kolkata,BCA,CUET,SC,257,256,258,258,50
+VIT Vellore,Information Technology,JEE,SC,280,286,287,289,50
+IIT Bombay,Chemical Engineering,JEE,SC,230,221,221,221,80
+AIIMS Delhi,MBBS,NEET,ST,615,622,623,623,50
+DU Delhi,BCA,CUET,EWS,238,247,250,251,50
+KEM Mumbai,Ayurvedic,NEET,GEN,615,597,599,599,95
+PGIMER Chandigarh,Ayurvedic,NEET,SC,556,551,554,557,50
+Lady Shri Ram College Delhi,BBA,CUET,EWS,309,318,321,321,50
+VIT Vellore,Mechanical Engineering,JEE,SC,363,334,334,337,95
+IIT Delhi,Electrical Engineering,JEE,OBC,274,260,262,262,90
+VIT Vellore,Electrical Engineering,JEE,GEN,231,251,253,255,50
+VIT Vellore,Information Technology,JEE,GEN,228,237,238,238,50
+DU Delhi,BSc,CUET,SC,259,256,257,258,70
+DU Delhi,BSc,CUET,EWS,259,253,256,257,70
+IIIT Hyderabad,Chemical Engineering,JEE,GEN,225,236,236,236,50
+MIT Pune,Mechanical Engineering,JEE,EWS,302,307,310,313,50
+MIT Pune,Electronics and Communication Engineering,JEE,OBC,313,298,298,301,90
+DU Delhi,BBA,CUET,ST,268,232,233,235,95
+St. Xavier Kolkata,BBA,CUET,SC,278,277,278,279,50
+PGIMER Chandigarh,Ayurvedic,NEET,GEN,572,572,573,575,50
+DU Delhi,BSc,CUET,ST,290,272,272,272,95
+St. Xavier Kolkata,BBA,CUET,OBC,232,246,248,248,50
+NIT Surathkal,Computer Science and Engineering,JEE,ST,270,261,261,263,80
+DU Delhi,BSc,CUET,SC,315,296,296,299,95
+St. Xavier Kolkata,BCA,CUET,SC,245,248,250,253,50
+NIT Trichy,Information Technology,JEE,ST,284,253,256,258,95
+Christ University Bengaluru,BSc,CUET,SC,266,256,258,260,80
+KEM Mumbai,Ayurvedic,NEET,EWS,657,650,653,655,70
+KEM Mumbai,Dental,NEET,EWS,517,517,519,521,50
+KEM Mumbai,Physiotherapy,NEET,EWS,661,677,679,681,50
+St. Xavier Kolkata,BBA,CUET,GEN,274,269,272,273,70
+PGIMER Chandigarh,Ayurvedic,NEET,SC,651,653,654,657,50
+BITS Pilani,Computer Science and Engineering,JEE,ST,261,247,250,252,80
+IIIT Hyderabad,Civil Engineering,JEE,EWS,270,263,264,265,80
+IIT Bombay,Information Technology,JEE,EWS,324,321,324,325,50
+VIT Vellore,Electrical Engineering,JEE,EWS,210,216,216,217,50
+IIT Bombay,Computer Science and Engineering,JEE,ST,312,274,274,275,95
+MIT Pune,Computer Science and Engineering,JEE,SC,266,245,248,251,95
+NIT Trichy,Mechanical Engineering,JEE,EWS,327,311,312,315,90
+IIT Bombay,Computer Science and Engineering,JEE,SC,283,286,286,286,50
+NIT Trichy,Civil Engineering,JEE,OBC,278,285,287,287,50
+IIIT Hyderabad,Computer Science and Engineering,JEE,EWS,255,258,259,260,50
+KEM Mumbai,MBBS,NEET,EWS,628,644,645,648,50
+JIPMER Puducherry,Physiotherapy,NEET,OBC,530,515,515,517,90
+AIIMS Delhi,MBBS,NEET,OBC,518,516,518,520,50
+KEM Mumbai,Dental,NEET,EWS,563,585,585,587,50
+NIT Trichy,Chemical Engineering,JEE,GEN,297,316,317,320,50
+St. Xavier Kolkata,BBA,CUET,EWS,293,286,289,289,70
+Lady Shri Ram College Delhi,BBA,CUET,EWS,332,336,339,341,50
+Lady Shri Ram College Delhi,BCA,CUET,EWS,328,315,317,317,90
+IIIT Hyderabad,Chemical Engineering,JEE,SC,330,315,315,317,90
+Christ University Bengaluru,BBA,CUET,ST,335,327,329,330,80
+KEM Mumbai,Dental,NEET,GEN,547,519,520,523,95
+IIT Bombay,Electrical Engineering,JEE,EWS,301,315,317,317,50
+AIIMS Delhi,Physiotherapy,NEET,EWS,580,591,591,592,50
+Lady Shri Ram College Delhi,BBA,CUET,GEN,284,301,303,304,50
+AIIMS Delhi,MBBS,NEET,ST,596,547,550,553,95
+KEM Mumbai,Physiotherapy,NEET,SC,541,506,506,507,95
+IIT Bombay,Civil Engineering,JEE,OBC,232,228,231,233,50
+IIT Bombay,Chemical Engineering,JEE,SC,244,234,235,237,80
+DU Delhi,BBA,CUET,EWS,300,291,291,292,80
+DU Delhi,BBA,CUET,GEN,291,286,286,286,80
+AIIMS Delhi,MBBS,NEET,GEN,536,536,537,537,50
+AIIMS Delhi,Physiotherapy,NEET,GEN,664,677,680,682,50
+Lady Shri Ram College Delhi,BSc,CUET,ST,315,313,316,319,50
+DU Delhi,BSc,CUET,EWS,299,294,295,296,70
+MIT Pune,Computer Science and Engineering,JEE,ST,245,234,234,236,80
+IIT Bombay,Chemical Engineering,JEE,ST,286,257,257,258,95
+NIT Surathkal,Civil Engineering,JEE,OBC,230,225,227,227,70
+KEM Mumbai,Physiotherapy,NEET,SC,537,542,543,546,50
+St. Xavier Kolkata,BSc,CUET,SC,285,256,256,257,95
+Lady Shri Ram College Delhi,BSc,CUET,OBC,299,307,310,311,50
+BITS Pilani,Civil Engineering,JEE,ST,261,239,242,244,95
+DU Delhi,BCA,CUET,GEN,281,297,298,298,50
+BITS Pilani,Chemical Engineering,JEE,GEN,252,241,241,241,90
+St. Xavier Kolkata,BSc,CUET,SC,325,309,312,313,90
+DU Delhi,BCA,CUET,OBC,284,279,282,284,70
+St. Xavier Kolkata,BCA,CUET,ST,273,256,257,260,90
+AIIMS Delhi,Dental,NEET,EWS,568,589,591,592,50
+NIT Trichy,Civil Engineering,JEE,OBC,237,233,234,234,70
+DU Delhi,BCA,CUET,OBC,315,306,306,306,80
+JIPMER Puducherry,Dental,NEET,GEN,705,680,683,686,95
+IIIT Hyderabad,Computer Science and Engineering,JEE,ST,316,316,318,318,50
+AIIMS Delhi,Physiotherapy,NEET,SC,542,539,539,542,70
+KEM Mumbai,MBBS,NEET,ST,607,598,601,601,80
+KEM Mumbai,Physiotherapy,NEET,ST,677,670,670,672,80
+PGIMER Chandigarh,MBBS,NEET,ST,697,662,665,666,95
+IIIT Hyderabad,Mechanical Engineering,JEE,EWS,240,242,243,243,50
+St. Xavier Kolkata,BSc,CUET,GEN,346,336,337,338,80
+BITS Pilani,Mechanical Engineering,JEE,GEN,261,242,242,245,95
+AIIMS Delhi,Physiotherapy,NEET,EWS,641,612,612,613,95
+St. Xavier Kolkata,BSc,CUET,EWS,331,312,312,315,95
+PGIMER Chandigarh,Dental,NEET,EWS,653,668,670,672,50
+IIT Delhi,Chemical Engineering,JEE,EWS,289,306,306,307,50
+St. Xavier Kolkata,BCA,CUET,OBC,311,287,290,293,95
+DU Delhi,BBA,CUET,SC,299,267,270,272,95
+AIIMS Delhi,Physiotherapy,NEET,GEN,561,549,550,550,90
+VIT Vellore,Computer Science and Engineering,JEE,GEN,247,250,251,251,50
+CMC Vellore,Physiotherapy,NEET,GEN,574,579,579,582,50
+Lady Shri Ram College Delhi,BCA,CUET,SC,318,317,319,322,50
+DU Delhi,BSc,CUET,GEN,271,261,262,264,80
+IIIT Hyderabad,Information Technology,JEE,OBC,334,312,314,315,95
+JIPMER Puducherry,MBBS,NEET,GEN,631,642,642,644,50
+NIT Surathkal,Mechanical Engineering,JEE,GEN,286,296,298,300,50
+BITS Pilani,Mechanical Engineering,JEE,EWS,269,278,279,281,50
+NIT Trichy,Mechanical Engineering,JEE,GEN,233,253,256,256,50
+MIT Pune,Computer Science and Engineering,JEE,OBC,257,273,276,277,50
+KEM Mumbai,MBBS,NEET,ST,563,540,541,542,95
+KEM Mumbai,Physiotherapy,NEET,EWS,639,652,652,655,50
+St. Xavier Kolkata,BSc,CUET,EWS,340,325,326,327,90
+DU Delhi,BSc,CUET,GEN,326,320,323,324,70
+JIPMER Puducherry,MBBS,NEET,GEN,657,660,662,662,50
+DU Delhi,BCA,CUET,SC,276,266,269,270,80
+NIT Trichy,Information Technology,JEE,SC,251,247,249,250,70
+St. Xavier Kolkata,BSc,CUET,SC,283,279,281,282,70
+CMC Vellore,MBBS,NEET,GEN,662,647,647,649,90
+KEM Mumbai,Ayurvedic,NEET,ST,583,593,594,595,50
+CMC Vellore,Dental,NEET,EWS,616,587,589,589,95
+Christ University Bengaluru,BBA,CUET,OBC,290,284,287,289,70
+VIT Vellore,Electronics and Communication Engineering,JEE,EWS,259,255,258,261,50
+KEM Mumbai,Dental,NEET,EWS,616,583,586,586,95
+JIPMER Puducherry,Dental,NEET,ST,512,483,484,485,95
+AIIMS Delhi,Dental,NEET,OBC,646,621,622,622,95
+KEM Mumbai,MBBS,NEET,SC,666,668,669,670,50
+VIT Vellore,Civil Engineering,JEE,EWS,255,267,269,271,50
+CMC Vellore,MBBS,NEET,ST,718,671,672,674,95
+Christ University Bengaluru,BSc,CUET,GEN,255,275,278,281,50
+KEM Mumbai,Physiotherapy,NEET,ST,592,545,548,550,95
+PGIMER Chandigarh,Physiotherapy,NEET,SC,644,607,610,611,95
+BITS Pilani,Electronics and Communication Engineering,JEE,ST,357,330,332,332,95
+NIT Trichy,Information Technology,JEE,SC,302,271,274,274,95
+St. Xavier Kolkata,BSc,CUET,OBC,311,329,330,332,50
+DU Delhi,BBA,CUET,GEN,326,327,329,330,50
+IIIT Hyderabad,Electronics and Communication Engineering,JEE,GEN,256,269,269,269,50
+IIT Delhi,Mechanical Engineering,JEE,ST,338,328,331,333,80
+AIIMS Delhi,Physiotherapy,NEET,OBC,614,604,607,610,70
+BITS Pilani,Electronics and Communication Engineering,JEE,EWS,309,310,313,316,50
+St. Xavier Kolkata,BSc,CUET,GEN,288,303,306,309,50
+NIT Trichy,Chemical Engineering,JEE,ST,331,295,297,299,95
+PGIMER Chandigarh,MBBS,NEET,OBC,678,679,681,682,50
+Christ University Bengaluru,BSc,CUET,OBC,268,276,278,279,50
+KEM Mumbai,Dental,NEET,OBC,546,519,520,522,95
+KEM Mumbai,Ayurvedic,NEET,ST,637,627,629,632,80
+PGIMER Chandigarh,MBBS,NEET,SC,682,651,651,654,95
+IIIT Hyderabad,Computer Science and Engineering,JEE,EWS,353,337,339,342,90
+IIT Bombay,Electrical Engineering,JEE,EWS,212,220,220,221,50
+Christ University Bengaluru,BBA,CUET,EWS,321,324,325,327,50
+KEM Mumbai,Dental,NEET,ST,631,591,593,596,95
+KEM Mumbai,Physiotherapy,NEET,EWS,637,659,662,665,50
+Lady Shri Ram College Delhi,BBA,CUET,ST,322,299,299,302,95
+DU Delhi,BCA,CUET,GEN,338,339,342,343,50
+NIT Surathkal,Mechanical Engineering,JEE,OBC,282,284,284,286,50
+St. Xavier Kolkata,BCA,CUET,SC,255,253,254,254,70
+IIT Delhi,Information Technology,JEE,GEN,268,269,271,274,50
+VIT Vellore,Civil Engineering,JEE,GEN,320,306,306,309,90
+PGIMER Chandigarh,Physiotherapy,NEET,GEN,517,537,538,538,50
+JIPMER Puducherry,Physiotherapy,NEET,SC,511,495,496,497,90
+Lady Shri Ram College Delhi,BSc,CUET,ST,305,276,279,281,95
+NIT Trichy,Information Technology,JEE,ST,282,272,272,274,80
+St. Xavier Kolkata,BBA,CUET,GEN,319,309,309,311,80
+St. Xavier Kolkata,BBA,CUET,SC,343,313,314,314,95
+BITS Pilani,Information Technology,JEE,SC,228,222,225,228,70
+NIT Trichy,Information Technology,JEE,GEN,245,251,251,251,50
+IIT Delhi,Chemical Engineering,JEE,EWS,237,219,220,220,95
+AIIMS Delhi,Ayurvedic,NEET,ST,659,640,641,641,95
+PGIMER Chandigarh,Dental,NEET,OBC,714,684,684,687,95
+JIPMER Puducherry,Physiotherapy,NEET,ST,626,601,604,605,95
+DU Delhi,BCA,CUET,ST,359,332,332,334,95
+Christ University Bengaluru,BBA,CUET,GEN,343,342,342,342,70
+NIT Trichy,Chemical Engineering,JEE,GEN,213,209,209,212,70
+DU Delhi,BCA,CUET,EWS,257,264,265,268,50
+NIT Surathkal,Civil Engineering,JEE,EWS,211,226,226,229,50
+JIPMER Puducherry,Dental,NEET,EWS,568,566,567,570,50
+JIPMER Puducherry,Dental,NEET,OBC,534,528,529,530,70
+St. Xavier Kolkata,BCA,CUET,EWS,293,297,299,299,50
+Lady Shri Ram College Delhi,BBA,CUET,SC,262,264,265,267,50
+St. Xavier Kolkata,BSc,CUET,GEN,260,260,261,262,50
+IIIT Hyderabad,Information Technology,JEE,GEN,285,293,295,298,50
+BITS Pilani,Chemical Engineering,JEE,GEN,296,294,295,296,70
+Christ University Bengaluru,BSc,CUET,OBC,331,337,339,339,50
+BITS Pilani,Chemical Engineering,JEE,GEN,276,275,275,275,70
+DU Delhi,BBA,CUET,OBC,279,261,264,267,90
+Lady Shri Ram College Delhi,BBA,CUET,OBC,284,280,281,281,70
+DU Delhi,BCA,CUET,ST,310,311,313,315,50
+IIIT Hyderabad,Electrical Engineering,JEE,EWS,282,273,275,275,80
+DU Delhi,BCA,CUET,EWS,275,272,275,276,50
+MIT Pune,Chemical Engineering,JEE,ST,336,304,307,309,95
+IIT Bombay,Mechanical Engineering,JEE,GEN,280,273,275,278,70
+KEM Mumbai,MBBS,NEET,GEN,670,687,689,689,50
+DU Delhi,BBA,CUET,SC,306,301,302,303,70
+IIT Delhi,Chemical Engineering,JEE,OBC,253,256,259,260,50
+NIT Trichy,Chemical Engineering,JEE,GEN,253,265,268,270,50
+Christ University Bengaluru,BCA,CUET,EWS,338,341,342,342,50
+CMC Vellore,Physiotherapy,NEET,ST,702,662,664,664,95
+BITS Pilani,Computer Science and Engineering,JEE,OBC,314,311,313,313,70
+DU Delhi,BBA,CUET,ST,348,317,320,322,95
+Lady Shri Ram College Delhi,BBA,CUET,ST,311,280,282,284,95
+PGIMER Chandigarh,Ayurvedic,NEET,SC,538,512,514,514,95
+JIPMER Puducherry,Dental,NEET,SC,586,594,597,598,50
+IIT Delhi,Computer Science and Engineering,JEE,OBC,282,274,277,280,70
+AIIMS Delhi,Ayurvedic,NEET,GEN,653,667,668,671,50
+IIIT Hyderabad,Civil Engineering,JEE,SC,297,282,282,283,90
+NIT Trichy,Electronics and Communication Engineering,JEE,ST,272,236,236,236,95
+Christ University Bengaluru,BBA,CUET,EWS,295,290,292,292,70
+PGIMER Chandigarh,Physiotherapy,NEET,EWS,631,628,628,631,70
+NIT Surathkal,Civil Engineering,JEE,OBC,298,303,304,306,50
+Christ University Bengaluru,BCA,CUET,EWS,329,317,317,320,80
+IIT Delhi,Electronics and Communication Engineering,JEE,OBC,287,263,264,266,95
+St. Xavier Kolkata,BSc,CUET,ST,252,230,233,234,95
+AIIMS Delhi,MBBS,NEET,GEN,579,550,553,555,95
+JIPMER Puducherry,Dental,NEET,OBC,537,509,510,510,95
+AIIMS Delhi,Physiotherapy,NEET,GEN,596,581,583,585,90
+NIT Trichy,Electronics and Communication Engineering,JEE,SC,231,214,217,218,90
+CMC Vellore,Physiotherapy,NEET,OBC,608,631,632,634,50
+DU Delhi,BSc,CUET,OBC,306,316,319,321,50
+NIT Trichy,Civil Engineering,JEE,SC,225,216,217,217,80
+JIPMER Puducherry,Physiotherapy,NEET,SC,695,674,675,676,95
+AIIMS Delhi,MBBS,NEET,EWS,563,567,568,571,50
+Christ University Bengaluru,BBA,CUET,OBC,309,318,319,319,50
+VIT Vellore,Electrical Engineering,JEE,SC,239,222,222,223,95
+DU Delhi,BCA,CUET,OBC,253,267,270,270,50
+IIIT Hyderabad,Electronics and Communication Engineering,JEE,ST,290,274,276,277,90
+Christ University Bengaluru,BBA,CUET,SC,273,278,280,281,50
+Christ University Bengaluru,BCA,CUET,EWS,353,338,341,344,80
+DU Delhi,BBA,CUET,ST,249,248,250,253,50
+JIPMER Puducherry,Ayurvedic,NEET,EWS,564,578,578,579,50
+St. Xavier Kolkata,BCA,CUET,ST,302,290,293,293,80
+St. Xavier Kolkata,BSc,CUET,GEN,249,267,268,271,50
+JIPMER Puducherry,MBBS,NEET,GEN,537,550,550,550,50
+PGIMER Chandigarh,Ayurvedic,NEET,OBC,559,584,584,584,50
+JIPMER Puducherry,Physiotherapy,NEET,SC,715,672,675,678,95
+BITS Pilani,Computer Science and Engineering,JEE,GEN,298,300,303,303,50
+PGIMER Chandigarh,Dental,NEET,SC,669,677,680,682,50
+MIT Pune,Chemical Engineering,JEE,SC,203,208,210,210,50
+KEM Mumbai,Physiotherapy,NEET,OBC,586,552,552,552,95
+NIT Trichy,Mechanical Engineering,JEE,SC,221,206,209,212,80
+AIIMS Delhi,Physiotherapy,NEET,EWS,536,515,518,519,95
+AIIMS Delhi,MBBS,NEET,ST,622,587,587,589,95
+NIT Trichy,Civil Engineering,JEE,ST,248,232,232,232,95
+CMC Vellore,MBBS,NEET,SC,507,506,508,509,50
+MIT Pune,Electrical Engineering,JEE,OBC,233,225,226,226,80
+AIIMS Delhi,Dental,NEET,OBC,606,573,574,577,95
+DU Delhi,BSc,CUET,ST,327,302,304,306,95
+JIPMER Puducherry,MBBS,NEET,EWS,603,602,602,604,50
+IIIT Hyderabad,Electronics and Communication Engineering,JEE,GEN,260,258,259,261,50
+Lady Shri Ram College Delhi,BCA,CUET,EWS,308,313,314,317,50
+BITS Pilani,Computer Science and Engineering,JEE,GEN,346,347,349,351,50
+JIPMER Puducherry,Ayurvedic,NEET,SC,670,661,663,665,80
+MIT Pune,Civil Engineering,JEE,EWS,215,231,234,237,50
+DU Delhi,BBA,CUET,SC,282,247,248,249,95
+JIPMER Puducherry,Dental,NEET,GEN,478,506,506,508,50
+VIT Vellore,Mechanical Engineering,JEE,SC,316,304,304,306,90
+CMC Vellore,Physiotherapy,NEET,EWS,571,587,589,589,50
+PGIMER Chandigarh,Ayurvedic,NEET,OBC,475,502,502,502,50
+CMC Vellore,MBBS,NEET,EWS,559,568,570,571,50
+AIIMS Delhi,Dental,NEET,EWS,543,565,567,570,50
+Lady Shri Ram College Delhi,BSc,CUET,GEN,301,297,298,301,70
+PGIMER Chandigarh,Ayurvedic,NEET,ST,695,679,681,684,90
+CMC Vellore,Dental,NEET,SC,498,488,488,490,80
+Christ University Bengaluru,BBA,CUET,OBC,333,325,325,326,80
+MIT Pune,Chemical Engineering,JEE,EWS,226,207,208,211,95
+JIPMER Puducherry,MBBS,NEET,ST,581,554,555,558,95
+CMC Vellore,Physiotherapy,NEET,ST,574,564,565,567,80
+BITS Pilani,Electrical Engineering,JEE,ST,245,238,239,242,70
+BITS Pilani,Civil Engineering,JEE,ST,354,327,327,328,95
+IIT Delhi,Information Technology,JEE,ST,231,200,202,204,95
+NIT Trichy,Civil Engineering,JEE,GEN,248,232,234,235,90
+PGIMER Chandigarh,MBBS,NEET,GEN,552,549,551,553,50
+BITS Pilani,Information Technology,JEE,ST,330,311,313,316,90
+VIT Vellore,Civil Engineering,JEE,SC,268,270,272,272,50
+St. Xavier Kolkata,BSc,CUET,GEN,273,294,294,297,50
+DU Delhi,BBA,CUET,ST,347,321,323,326,95
+IIIT Hyderabad,Chemical Engineering,JEE,OBC,317,319,321,324,50
+NIT Surathkal,Chemical Engineering,JEE,OBC,240,218,220,221,95
+NIT Trichy,Computer Science and Engineering,JEE,GEN,245,231,233,234,90
+Lady Shri Ram College Delhi,BSc,CUET,OBC,325,332,333,336,50
+PGIMER Chandigarh,Physiotherapy,NEET,SC,658,652,652,653,80
+Lady Shri Ram College Delhi,BCA,CUET,OBC,304,282,283,285,95
+KEM Mumbai,Dental,NEET,ST,499,486,489,490,80
+VIT Vellore,Mechanical Engineering,JEE,OBC,326,309,310,311,95
+Lady Shri Ram College Delhi,BCA,CUET,ST,274,238,240,243,95
+Lady Shri Ram College Delhi,BBA,CUET,GEN,316,298,301,301,95
+DU Delhi,BSc,CUET,GEN,343,329,330,331,90
+NIT Surathkal,Electrical Engineering,JEE,EWS,221,230,231,231,50
+PGIMER Chandigarh,Ayurvedic,NEET,EWS,509,504,506,506,70
+St. Xavier Kolkata,BCA,CUET,EWS,311,300,302,305,80
+CMC Vellore,Physiotherapy,NEET,SC,648,641,644,645,70
+BITS Pilani,Mechanical Engineering,JEE,OBC,267,280,282,282,50
+Lady Shri Ram College Delhi,BBA,CUET,EWS,259,250,251,253,80
+DU Delhi,BBA,CUET,OBC,238,251,253,256,50
+Lady Shri Ram College Delhi,BCA,CUET,EWS,258,260,262,262,50
+JIPMER Puducherry,Dental,NEET,GEN,622,605,608,611,90
+AIIMS Delhi,Physiotherapy,NEET,EWS,511,499,499,500,90
+VIT Vellore,Computer Science and Engineering,JEE,GEN,356,342,343,343,90
+NIT Surathkal,Electronics and Communication Engineering,JEE,OBC,342,336,338,339,70
+KEM Mumbai,MBBS,NEET,EWS,571,539,539,540,95
+Christ University Bengaluru,BCA,CUET,GEN,346,330,332,334,90
+NIT Trichy,Chemical Engineering,JEE,GEN,304,293,293,295,80
+VIT Vellore,Electronics and Communication Engineering,JEE,ST,264,247,250,250,90
+DU Delhi,BBA,CUET,EWS,241,252,252,252,50
+IIIT Hyderabad,Computer Science and Engineering,JEE,GEN,202,209,212,212,50
+PGIMER Chandigarh,Dental,NEET,OBC,559,573,576,577,50
+IIT Bombay,Information Technology,JEE,GEN,217,214,217,220,50
+Lady Shri Ram College Delhi,BCA,CUET,GEN,333,325,327,329,70
+DU Delhi,BBA,CUET,OBC,264,246,249,251,90
+MIT Pune,Civil Engineering,JEE,SC,196,201,201,202,50
+DU Delhi,BSc,CUET,EWS,306,304,305,305,70
+St. Xavier Kolkata,BCA,CUET,OBC,318,295,298,300,95
+IIIT Hyderabad,Information Technology,JEE,ST,292,262,263,264,95
+VIT Vellore,Electrical Engineering,JEE,GEN,305,292,295,298,80
+PGIMER Chandigarh,Physiotherapy,NEET,EWS,703,690,693,695,80
+St. Xavier Kolkata,BBA,CUET,OBC,283,292,295,298,50
+St. Xavier Kolkata,BCA,CUET,GEN,289,300,300,301,50
+DU Delhi,BCA,CUET,OBC,261,253,256,259,70
+CMC Vellore,Dental,NEET,SC,574,565,565,566,80
+AIIMS Delhi,Ayurvedic,NEET,EWS,660,646,648,648,90
+BITS Pilani,Information Technology,JEE,SC,255,257,258,261,50
+KEM Mumbai,Dental,NEET,OBC,649,643,645,645,70
+PGIMER Chandigarh,Ayurvedic,NEET,GEN,611,643,646,648,50
+PGIMER Chandigarh,Dental,NEET,GEN,632,638,638,640,50
+Christ University Bengaluru,BCA,CUET,SC,344,318,321,322,95
+IIT Delhi,Chemical Engineering,JEE,ST,301,266,267,270,95
+Christ University Bengaluru,BCA,CUET,OBC,251,251,254,257,50
+NIT Surathkal,Information Technology,JEE,GEN,278,264,264,266,90
+PGIMER Chandigarh,MBBS,NEET,SC,546,534,537,539,80
+CMC Vellore,Ayurvedic,NEET,GEN,711,683,685,685,95
+BITS Pilani,Computer Science and Engineering,JEE,EWS,285,264,264,264,95
+IIT Delhi,Computer Science and Engineering,JEE,OBC,282,283,284,286,50
+VIT Vellore,Mechanical Engineering,JEE,SC,293,283,286,288,80
+IIT Delhi,Electronics and Communication Engineering,JEE,EWS,329,321,321,323,80
+PGIMER Chandigarh,Ayurvedic,NEET,ST,616,581,583,585,95
+Lady Shri Ram College Delhi,BBA,CUET,SC,297,293,295,295,70
+Lady Shri Ram College Delhi,BCA,CUET,EWS,321,338,340,340,50
+MIT Pune,Chemical Engineering,JEE,GEN,300,294,296,299,70
+DU Delhi,BBA,CUET,SC,294,267,268,270,95
+Lady Shri Ram College Delhi,BCA,CUET,OBC,291,276,276,276,95
+VIT Vellore,Computer Science and Engineering,JEE,EWS,271,284,284,284,50
+Christ University Bengaluru,BBA,CUET,GEN,290,302,304,304,50
+JIPMER Puducherry,Physiotherapy,NEET,GEN,563,546,549,551,90
+MIT Pune,Civil Engineering,JEE,OBC,204,219,221,224,50
+JIPMER Puducherry,MBBS,NEET,OBC,613,624,627,628,50
+AIIMS Delhi,Physiotherapy,NEET,EWS,561,551,551,551,90
+IIIT Hyderabad,Electronics and Communication Engineering,JEE,SC,300,292,292,292,80
+DU Delhi,BBA,CUET,SC,275,269,272,275,70
+Lady Shri Ram College Delhi,BSc,CUET,ST,270,267,267,267,70
+Lady Shri Ram College Delhi,BCA,CUET,EWS,307,296,296,297,90
+NIT Surathkal,Chemical Engineering,JEE,GEN,229,246,249,249,50
+IIT Bombay,Electronics and Communication Engineering,JEE,SC,240,220,221,221,95
+St. Xavier Kolkata,BBA,CUET,GEN,287,302,303,303,50
+MIT Pune,Mechanical Engineering,JEE,SC,195,197,200,200,50
+IIT Delhi,Electronics and Communication Engineering,JEE,ST,231,218,220,221,90
+Christ University Bengaluru,BSc,CUET,EWS,349,346,349,350,50
+NIT Trichy,Civil Engineering,JEE,EWS,252,232,232,235,95
+DU Delhi,BBA,CUET,GEN,288,294,294,295,50
+PGIMER Chandigarh,MBBS,NEET,OBC,633,627,627,628,80
+PGIMER Chandigarh,MBBS,NEET,GEN,655,634,636,637,95
+VIT Vellore,Information Technology,JEE,OBC,259,235,237,240,95
+AIIMS Delhi,Physiotherapy,NEET,SC,490,499,500,503,50
+IIIT Hyderabad,Electronics and Communication Engineering,JEE,ST,219,182,184,185,95
+MIT Pune,Electrical Engineering,JEE,SC,352,321,322,324,95
+Christ University Bengaluru,BCA,CUET,ST,296,257,258,259,95
+MIT Pune,Chemical Engineering,JEE,EWS,282,287,287,287,50
+JIPMER Puducherry,Physiotherapy,NEET,EWS,497,508,510,512,50
+DU Delhi,BCA,CUET,OBC,257,262,262,263,50
+KEM Mumbai,Dental,NEET,EWS,625,601,603,606,95
+Lady Shri Ram College Delhi,BBA,CUET,EWS,297,290,290,290,80
+JIPMER Puducherry,Dental,NEET,ST,531,505,507,507,95
+IIT Bombay,Civil Engineering,JEE,SC,360,325,328,331,95
+Christ University Bengaluru,BBA,CUET,ST,358,326,327,330,95
+JIPMER Puducherry,Ayurvedic,NEET,GEN,670,692,695,695,50
+NIT Surathkal,Civil Engineering,JEE,ST,288,270,271,274,90
+KEM Mumbai,Ayurvedic,NEET,SC,544,526,527,527,95
+VIT Vellore,Chemical Engineering,JEE,ST,235,221,224,226,80
+IIT Bombay,Electronics and Communication Engineering,JEE,EWS,336,346,348,350,50
+BITS Pilani,Information Technology,JEE,GEN,302,301,304,306,50
+NIT Trichy,Civil Engineering,JEE,OBC,342,341,342,342,70
+Christ University Bengaluru,BSc,CUET,EWS,310,324,324,324,50
+NIT Surathkal,Mechanical Engineering,JEE,ST,303,288,290,290,90
+Lady Shri Ram College Delhi,BSc,CUET,EWS,300,307,307,309,50
+MIT Pune,Mechanical Engineering,JEE,SC,278,260,263,266,90
+JIPMER Puducherry,Dental,NEET,GEN,544,543,543,543,70
+KEM Mumbai,Dental,NEET,OBC,625,618,618,619,80
+Christ University Bengaluru,BCA,CUET,EWS,322,331,332,335,50
+AIIMS Delhi,Ayurvedic,NEET,GEN,630,638,641,641,50
+BITS Pilani,Chemical Engineering,JEE,OBC,286,285,285,285,70
+St. Xavier Kolkata,BSc,CUET,GEN,290,295,297,297,50
+DU Delhi,BCA,CUET,ST,249,232,232,235,90
+Christ University Bengaluru,BBA,CUET,SC,254,242,244,244,90
+BITS Pilani,Chemical Engineering,JEE,GEN,306,310,313,314,50
+CMC Vellore,Ayurvedic,NEET,SC,558,575,577,579,50
+MIT Pune,Electronics and Communication Engineering,JEE,ST,224,191,194,197,95
+KEM Mumbai,Dental,NEET,OBC,622,637,638,639,50
+AIIMS Delhi,Physiotherapy,NEET,EWS,525,549,552,555,50
+IIT Bombay,Mechanical Engineering,JEE,SC,239,236,236,236,70
+JIPMER Puducherry,Dental,NEET,SC,674,672,673,674,70
+AIIMS Delhi,Physiotherapy,NEET,GEN,527,529,529,529,50
+NIT Trichy,Information Technology,JEE,ST,267,259,260,263,70
+JIPMER Puducherry,MBBS,NEET,SC,628,626,627,627,70
+NIT Trichy,Information Technology,JEE,GEN,206,225,228,228,50
+JIPMER Puducherry,Ayurvedic,NEET,GEN,595,568,568,571,95
+IIIT Hyderabad,Chemical Engineering,JEE,ST,350,328,330,332,95
+PGIMER Chandigarh,Physiotherapy,NEET,GEN,548,541,541,541,80
+PGIMER Chandigarh,MBBS,NEET,OBC,528,512,514,516,90
+CMC Vellore,Dental,NEET,OBC,534,555,558,561,50
+JIPMER Puducherry,Physiotherapy,NEET,EWS,593,615,615,615,50
+PGIMER Chandigarh,Dental,NEET,OBC,671,672,673,673,50
+AIIMS Delhi,Ayurvedic,NEET,SC,659,628,629,631,95
+AIIMS Delhi,Dental,NEET,OBC,613,616,616,616,50
+IIT Delhi,Electronics and Communication Engineering,JEE,GEN,263,257,257,259,70
+St. Xavier Kolkata,BBA,CUET,EWS,310,319,319,322,50
+JIPMER Puducherry,Physiotherapy,NEET,EWS,575,581,581,583,50
+Lady Shri Ram College Delhi,BSc,CUET,OBC,273,285,286,288,50
+IIIT Hyderabad,Civil Engineering,JEE,GEN,344,351,352,352,50
+IIT Delhi,Electrical Engineering,JEE,SC,266,251,252,255,90
+KEM Mumbai,Ayurvedic,NEET,EWS,616,589,589,592,95
+NIT Trichy,Computer Science and Engineering,JEE,OBC,265,267,268,270,50
+NIT Surathkal,Information Technology,JEE,OBC,329,330,332,333,50
+IIT Bombay,Computer Science and Engineering,JEE,EWS,300,301,303,303,50
+IIT Bombay,Chemical Engineering,JEE,ST,285,265,265,267,95
+Christ University Bengaluru,BCA,CUET,OBC,235,251,253,254,50
+NIT Surathkal,Mechanical Engineering,JEE,GEN,264,251,252,252,90
+Christ University Bengaluru,BCA,CUET,SC,260,256,259,259,70
+JIPMER Puducherry,MBBS,NEET,GEN,679,656,658,660,95
+IIT Bombay,Civil Engineering,JEE,ST,233,218,219,219,90
+St. Xavier Kolkata,BBA,CUET,ST,327,299,301,304,95
+PGIMER Chandigarh,Dental,NEET,SC,543,551,554,554,50
+KEM Mumbai,Dental,NEET,EWS,584,566,568,570,90
+NIT Surathkal,Civil Engineering,JEE,OBC,340,330,333,333,80
+Lady Shri Ram College Delhi,BBA,CUET,SC,264,251,254,256,80
+IIIT Hyderabad,Mechanical Engineering,JEE,EWS,230,235,235,235,50
+KEM Mumbai,Dental,NEET,ST,535,509,511,513,95
+VIT Vellore,Computer Science and Engineering,JEE,SC,279,261,261,263,95
+JIPMER Puducherry,MBBS,NEET,GEN,564,577,579,580,50
+KEM Mumbai,MBBS,NEET,ST,653,623,623,624,95
+AIIMS Delhi,Physiotherapy,NEET,ST,555,543,544,547,80
+VIT Vellore,Civil Engineering,JEE,ST,283,269,272,274,80
+NIT Trichy,Information Technology,JEE,GEN,224,214,217,217,80
+NIT Trichy,Civil Engineering,JEE,EWS,342,323,324,325,95
+Christ University Bengaluru,BSc,CUET,GEN,248,260,260,261,50
+IIIT Hyderabad,Mechanical Engineering,JEE,SC,260,228,231,234,95
+BITS Pilani,Chemical Engineering,JEE,EWS,211,200,200,200,90
+CMC Vellore,Physiotherapy,NEET,GEN,581,553,554,556,95
+DU Delhi,BCA,CUET,OBC,300,295,297,299,70
+IIT Bombay,Chemical Engineering,JEE,SC,240,241,244,246,50
+St. Xavier Kolkata,BBA,CUET,EWS,284,288,290,293,50
+IIIT Hyderabad,Civil Engineering,JEE,SC,264,238,240,242,95
+KEM Mumbai,Physiotherapy,NEET,SC,485,489,491,492,50
+Christ University Bengaluru,BCA,CUET,GEN,238,255,255,255,50
+MIT Pune,Electronics and Communication Engineering,JEE,OBC,314,298,301,303,90
+Christ University Bengaluru,BSc,CUET,EWS,333,322,323,324,80
+JIPMER Puducherry,Physiotherapy,NEET,GEN,574,589,591,591,50
+NIT Surathkal,Information Technology,JEE,ST,222,193,193,195,95
+MIT Pune,Computer Science and Engineering,JEE,ST,245,223,226,226,95
+KEM Mumbai,MBBS,NEET,EWS,587,594,596,598,50
+CMC Vellore,MBBS,NEET,ST,591,570,573,575,95
+CMC Vellore,Physiotherapy,NEET,SC,526,493,495,498,95
+AIIMS Delhi,Physiotherapy,NEET,ST,710,682,685,686,95
+NIT Surathkal,Electrical Engineering,JEE,EWS,222,201,204,206,95
+Christ University Bengaluru,BBA,CUET,OBC,319,314,317,319,70
+DU Delhi,BCA,CUET,SC,320,292,292,294,95
+Christ University Bengaluru,BSc,CUET,EWS,257,257,259,260,50
+AIIMS Delhi,Physiotherapy,NEET,ST,687,655,658,661,95
+DU Delhi,BBA,CUET,EWS,304,311,314,316,50
+DU Delhi,BSc,CUET,SC,315,319,320,323,50
+Lady Shri Ram College Delhi,BSc,CUET,SC,257,247,248,251,80
+NIT Surathkal,Chemical Engineering,JEE,SC,227,203,203,204,95
+Christ University Bengaluru,BCA,CUET,GEN,279,264,264,265,90
+IIT Delhi,Civil Engineering,JEE,ST,251,224,227,229,95
+Christ University Bengaluru,BSc,CUET,GEN,273,272,275,276,50
+St. Xavier Kolkata,BSc,CUET,OBC,295,273,275,278,95
+AIIMS Delhi,Ayurvedic,NEET,SC,645,650,652,655,50
+Lady Shri Ram College Delhi,BSc,CUET,GEN,328,323,326,328,70
+KEM Mumbai,Ayurvedic,NEET,GEN,680,659,660,660,95
+MIT Pune,Computer Science and Engineering,JEE,OBC,329,334,335,336,50
+Lady Shri Ram College Delhi,BSc,CUET,SC,273,254,256,256,95
+IIT Delhi,Electrical Engineering,JEE,OBC,250,256,258,261,50
+DU Delhi,BBA,CUET,ST,273,239,239,240,95
+St. Xavier Kolkata,BSc,CUET,OBC,269,270,270,272,50
+IIT Delhi,Electrical Engineering,JEE,GEN,230,249,251,253,50
+JIPMER Puducherry,Physiotherapy,NEET,SC,601,589,590,591,90
+MIT Pune,Computer Science and Engineering,JEE,EWS,260,248,250,250,90
+IIT Delhi,Electronics and Communication Engineering,JEE,EWS,223,235,235,236,50
+IIT Bombay,Information Technology,JEE,GEN,268,273,275,275,50
+St. Xavier Kolkata,BCA,CUET,OBC,239,249,249,250,50
+IIT Delhi,Chemical Engineering,JEE,EWS,334,337,338,339,50
+DU Delhi,BBA,CUET,EWS,340,338,339,340,70
+Lady Shri Ram College Delhi,BBA,CUET,GEN,302,288,289,290,90
+St. Xavier Kolkata,BBA,CUET,EWS,309,316,318,320,50
+VIT Vellore,Computer Science and Engineering,JEE,EWS,246,233,235,236,90
+Christ University Bengaluru,BSc,CUET,GEN,340,352,354,354,50
+KEM Mumbai,Ayurvedic,NEET,ST,498,500,501,501,50
+DU Delhi,BSc,CUET,GEN,322,338,340,343,50
+NIT Surathkal,Electronics and Communication Engineering,JEE,GEN,307,303,304,307,70
+JIPMER Puducherry,Dental,NEET,GEN,576,595,597,598,50
+AIIMS Delhi,MBBS,NEET,ST,688,660,660,663,95
+JIPMER Puducherry,Ayurvedic,NEET,OBC,576,600,601,603,50
+IIIT Hyderabad,Chemical Engineering,JEE,ST,257,250,253,254,70
+DU Delhi,BCA,CUET,GEN,280,262,264,267,90
+CMC Vellore,Ayurvedic,NEET,ST,539,501,503,504,95
+DU Delhi,BBA,CUET,SC,323,330,333,335,50
+KEM Mumbai,MBBS,NEET,SC,501,495,497,500,70
+Christ University Bengaluru,BBA,CUET,OBC,294,290,292,293,70
+IIT Delhi,Mechanical Engineering,JEE,ST,238,215,218,220,95
+PGIMER Chandigarh,Dental,NEET,OBC,573,582,584,587,50
+VIT Vellore,Computer Science and Engineering,JEE,OBC,213,224,226,228,50
+Christ University Bengaluru,BCA,CUET,GEN,310,328,328,329,50
+VIT Vellore,Chemical Engineering,JEE,ST,292,265,268,269,95
+Christ University Bengaluru,BSc,CUET,SC,326,316,319,319,80
+DU Delhi,BBA,CUET,GEN,317,338,338,341,50
+Lady Shri Ram College Delhi,BSc,CUET,GEN,331,316,319,320,90
+St. Xavier Kolkata,BBA,CUET,ST,266,246,248,248,95
+Christ University Bengaluru,BBA,CUET,EWS,312,308,311,314,50
+CMC Vellore,Physiotherapy,NEET,EWS,498,495,498,501,50
+BITS Pilani,Electronics and Communication Engineering,JEE,SC,204,208,209,209,50
+Lady Shri Ram College Delhi,BBA,CUET,EWS,306,314,317,317,50
+DU Delhi,BBA,CUET,ST,315,300,303,304,90
+IIIT Hyderabad,Electronics and Communication Engineering,JEE,OBC,226,233,236,237,50
+JIPMER Puducherry,Ayurvedic,NEET,SC,691,684,687,687,70
+Christ University Bengaluru,BBA,CUET,GEN,305,316,319,319,50
+MIT Pune,Civil Engineering,JEE,GEN,271,263,265,265,80
+Lady Shri Ram College Delhi,BCA,CUET,EWS,294,281,283,286,80
+DU Delhi,BBA,CUET,ST,292,260,260,262,95
+IIIT Hyderabad,Mechanical Engineering,JEE,EWS,280,272,272,272,80
+IIT Bombay,Information Technology,JEE,EWS,295,308,309,310,50
+Christ University Bengaluru,BSc,CUET,EWS,283,274,274,276,80
+MIT Pune,Electrical Engineering,JEE,EWS,328,343,343,346,50
+Lady Shri Ram College Delhi,BBA,CUET,ST,305,297,297,300,80
+Lady Shri Ram College Delhi,BCA,CUET,EWS,256,273,276,278,50
+CMC Vellore,Physiotherapy,NEET,SC,615,579,579,581,95
+JIPMER Puducherry,Physiotherapy,NEET,ST,549,539,542,545,70
+CMC Vellore,Ayurvedic,NEET,OBC,609,577,579,580,95
+MIT Pune,Mechanical Engineering,JEE,OBC,318,331,332,334,50
+IIIT Hyderabad,Chemical Engineering,JEE,SC,279,247,247,250,95
+VIT Vellore,Mechanical Engineering,JEE,EWS,288,280,282,285,70
+Christ University Bengaluru,BSc,CUET,OBC,280,289,289,289,50
+Lady Shri Ram College Delhi,BCA,CUET,SC,239,238,239,241,50
+DU Delhi,BSc,CUET,ST,299,299,300,303,50
+MIT Pune,Mechanical Engineering,JEE,SC,267,262,263,263,70
+IIT Bombay,Electronics and Communication Engineering,JEE,EWS,219,202,203,204,95
+NIT Trichy,Chemical Engineering,JEE,ST,203,181,184,187,95
+Lady Shri Ram College Delhi,BBA,CUET,EWS,278,280,283,285,50
+MIT Pune,Information Technology,JEE,ST,221,215,215,218,70
+PGIMER Chandigarh,Physiotherapy,NEET,ST,534,518,521,522,90
+St. Xavier Kolkata,BSc,CUET,GEN,358,343,343,346,90
+IIT Bombay,Chemical Engineering,JEE,ST,246,213,215,215,95
+KEM Mumbai,MBBS,NEET,EWS,507,513,515,517,50
+Lady Shri Ram College Delhi,BBA,CUET,ST,280,260,263,266,90
+Christ University Bengaluru,BCA,CUET,GEN,317,335,335,335,50
+BITS Pilani,Civil Engineering,JEE,OBC,247,228,231,231,95
+IIT Bombay,Information Technology,JEE,EWS,278,287,288,290,50
+AIIMS Delhi,MBBS,NEET,OBC,539,561,562,563,50
+DU Delhi,BSc,CUET,EWS,263,250,253,253,90
+Christ University Bengaluru,BCA,CUET,GEN,326,342,342,345,50
+Lady Shri Ram College Delhi,BCA,CUET,ST,326,326,327,329,50
+Lady Shri Ram College Delhi,BBA,CUET,GEN,276,295,296,299,50
+KEM Mumbai,MBBS,NEET,SC,581,544,545,548,95
+BITS Pilani,Mechanical Engineering,JEE,EWS,206,198,198,200,80
+IIT Delhi,Chemical Engineering,JEE,SC,311,309,309,312,50
+NIT Trichy,Mechanical Engineering,JEE,OBC,283,261,264,264,95
+NIT Trichy,Computer Science and Engineering,JEE,OBC,221,227,227,229,50
+JIPMER Puducherry,Ayurvedic,NEET,GEN,535,535,537,538,50
+DU Delhi,BBA,CUET,OBC,307,297,299,300,80
+PGIMER Chandigarh,MBBS,NEET,ST,590,582,585,588,70
+Christ University Bengaluru,BSc,CUET,SC,325,315,317,319,80
+NIT Trichy,Electrical Engineering,JEE,ST,318,310,313,314,70
+PGIMER Chandigarh,MBBS,NEET,GEN,513,517,518,518,50
+AIIMS Delhi,Physiotherapy,NEET,EWS,708,683,684,685,95
+St. Xavier Kolkata,BCA,CUET,ST,329,295,298,300,95
+Lady Shri Ram College Delhi,BSc,CUET,ST,320,297,300,303,95
+VIT Vellore,Information Technology,JEE,SC,193,195,195,196,50
+NIT Trichy,Information Technology,JEE,EWS,242,231,232,233,80
+DU Delhi,BBA,CUET,GEN,241,256,259,261,50
+CMC Vellore,Ayurvedic,NEET,SC,682,664,667,668,90
+St. Xavier Kolkata,BCA,CUET,SC,260,251,251,254,80
+VIT Vellore,Computer Science and Engineering,JEE,EWS,277,266,266,267,90
+IIT Delhi,Electronics and Communication Engineering,JEE,OBC,237,252,254,255,50
+JIPMER Puducherry,Ayurvedic,NEET,OBC,642,641,642,645,50
+Lady Shri Ram College Delhi,BBA,CUET,EWS,249,247,247,247,70
+IIT Bombay,Civil Engineering,JEE,EWS,327,340,340,342,50
+NIT Trichy,Computer Science and Engineering,JEE,SC,310,310,312,314,50
+IIT Bombay,Electrical Engineering,JEE,OBC,270,252,252,253,95
+IIIT Hyderabad,Electronics and Communication Engineering,JEE,GEN,256,274,277,277,50
+Christ University Bengaluru,BSc,CUET,GEN,318,331,331,333,50
+BITS Pilani,Chemical Engineering,JEE,EWS,256,247,250,252,70
+DU Delhi,BCA,CUET,ST,285,270,272,272,90
+Christ University Bengaluru,BSc,CUET,SC,286,291,292,293,50
+St. Xavier Kolkata,BCA,CUET,OBC,362,344,345,347,95
+MIT Pune,Information Technology,JEE,GEN,276,285,285,286,50
+PGIMER Chandigarh,Physiotherapy,NEET,GEN,639,641,644,647,50
+BITS Pilani,Information Technology,JEE,OBC,257,269,271,271,50
+PGIMER Chandigarh,Physiotherapy,NEET,OBC,680,668,668,671,80
+IIT Bombay,Electronics and Communication Engineering,JEE,EWS,319,314,317,320,50
+Christ University Bengaluru,BBA,CUET,GEN,274,270,270,272,70
+CMC Vellore,Ayurvedic,NEET,EWS,509,532,533,535,50
+Christ University Bengaluru,BSc,CUET,SC,289,296,296,297,50
+Lady Shri Ram College Delhi,BBA,CUET,EWS,277,254,255,256,95
+KEM Mumbai,MBBS,NEET,ST,630,622,623,626,70
+MIT Pune,Chemical Engineering,JEE,SC,318,318,320,322,50
+Lady Shri Ram College Delhi,BBA,CUET,EWS,254,256,258,260,50
+Christ University Bengaluru,BCA,CUET,SC,309,283,285,285,95
+IIT Bombay,Electronics and Communication Engineering,JEE,OBC,327,316,318,321,80
+MIT Pune,Chemical Engineering,JEE,ST,346,314,315,315,95
+Lady Shri Ram College Delhi,BCA,CUET,EWS,368,346,346,348,95
+PGIMER Chandigarh,Ayurvedic,NEET,EWS,562,586,589,592,50
+KEM Mumbai,Physiotherapy,NEET,ST,688,657,657,658,95
+Christ University Bengaluru,BSc,CUET,SC,339,327,330,330,80
+MIT Pune,Electrical Engineering,JEE,GEN,267,273,275,277,50
+CMC Vellore,Dental,NEET,EWS,608,593,596,599,80
+DU Delhi,BCA,CUET,OBC,339,324,327,330,80
+St. Xavier Kolkata,BCA,CUET,EWS,251,256,256,258,50
+JIPMER Puducherry,Dental,NEET,GEN,630,627,629,630,70
+St. Xavier Kolkata,BSc,CUET,EWS,361,341,344,344,95
+Christ University Bengaluru,BCA,CUET,GEN,286,279,282,282,70
+CMC Vellore,Physiotherapy,NEET,GEN,702,699,702,702,70
+NIT Surathkal,Mechanical Engineering,JEE,GEN,209,201,204,206,70
+IIT Delhi,Information Technology,JEE,SC,280,286,286,289,50
+AIIMS Delhi,Ayurvedic,NEET,ST,621,623,623,624,50
+IIIT Hyderabad,Information Technology,JEE,ST,323,306,306,307,95
+DU Delhi,BBA,CUET,GEN,246,267,270,270,50
+NIT Surathkal,Mechanical Engineering,JEE,ST,276,272,275,277,50
+Christ University Bengaluru,BSc,CUET,GEN,262,250,251,254,80
+JIPMER Puducherry,Ayurvedic,NEET,GEN,692,664,665,665,95
+Lady Shri Ram College Delhi,BBA,CUET,GEN,269,283,283,283,50
+PGIMER Chandigarh,Ayurvedic,NEET,OBC,640,642,645,646,50
+KEM Mumbai,Dental,NEET,OBC,685,685,687,687,50
+CMC Vellore,Dental,NEET,ST,591,591,594,594,50
+IIT Delhi,Information Technology,JEE,EWS,219,202,203,203,95
+PGIMER Chandigarh,Dental,NEET,SC,706,668,671,672,95
+Christ University Bengaluru,BCA,CUET,EWS,348,325,328,329,95
+CMC Vellore,Physiotherapy,NEET,EWS,658,651,653,656,70
+IIT Delhi,Computer Science and Engineering,JEE,GEN,297,312,313,314,50
+NIT Surathkal,Electrical Engineering,JEE,GEN,262,272,273,275,50
+IIT Bombay,Civil Engineering,JEE,GEN,325,314,315,315,90
+Lady Shri Ram College Delhi,BCA,CUET,GEN,317,324,326,328,50
+PGIMER Chandigarh,Dental,NEET,ST,707,673,673,673,95
+St. Xavier Kolkata,BSc,CUET,OBC,347,326,327,328,95
+Lady Shri Ram College Delhi,BCA,CUET,GEN,348,348,349,352,50
+DU Delhi,BBA,CUET,SC,272,242,242,245,95
+DU Delhi,BSc,CUET,OBC,263,278,280,280,50
+PGIMER Chandigarh,Dental,NEET,OBC,566,552,552,555,90
+NIT Trichy,Civil Engineering,JEE,EWS,253,257,258,260,50
+Lady Shri Ram College Delhi,BBA,CUET,SC,290,287,287,290,70
+PGIMER Chandigarh,MBBS,NEET,SC,642,641,642,643,50
+MIT Pune,Mechanical Engineering,JEE,GEN,269,286,286,288,50
+St. Xavier Kolkata,BCA,CUET,ST,318,318,318,320,50
+Christ University Bengaluru,BCA,CUET,ST,276,269,271,274,70
+NIT Surathkal,Mechanical Engineering,JEE,SC,324,308,308,308,95
+Lady Shri Ram College Delhi,BBA,CUET,GEN,328,323,326,329,50
+BITS Pilani,Electronics and Communication Engineering,JEE,SC,275,277,278,280,50
+IIIT Hyderabad,Electrical Engineering,JEE,EWS,264,251,251,251,90
+IIT Delhi,Civil Engineering,JEE,GEN,236,237,239,240,50
+St. Xavier Kolkata,BBA,CUET,OBC,296,275,275,278,95
+St. Xavier Kolkata,BBA,CUET,SC,304,298,298,299,80
+AIIMS Delhi,MBBS,NEET,EWS,608,612,615,618,50
+VIT Vellore,Mechanical Engineering,JEE,GEN,287,271,271,273,90
+BITS Pilani,Electronics and Communication Engineering,JEE,GEN,245,231,234,236,80
+VIT Vellore,Information Technology,JEE,ST,200,195,198,200,70
+IIIT Hyderabad,Electrical Engineering,JEE,OBC,300,317,319,319,50
+AIIMS Delhi,Ayurvedic,NEET,GEN,571,582,582,583,50
+PGIMER Chandigarh,MBBS,NEET,ST,596,569,570,570,95
+BITS Pilani,Computer Science and Engineering,JEE,GEN,217,202,202,202,95
+IIIT Hyderabad,Chemical Engineering,JEE,GEN,214,204,205,206,80
+Christ University Bengaluru,BSc,CUET,ST,318,300,300,300,95
+AIIMS Delhi,Ayurvedic,NEET,SC,602,599,601,604,50
+CMC Vellore,Ayurvedic,NEET,GEN,683,694,694,696,50
+BITS Pilani,Electrical Engineering,JEE,SC,298,266,267,270,95
+DU Delhi,BSc,CUET,OBC,311,322,322,322,50
+KEM Mumbai,MBBS,NEET,SC,505,512,512,513,50
+St. Xavier Kolkata,BCA,CUET,GEN,271,267,268,271,70
+JIPMER Puducherry,Dental,NEET,SC,521,524,524,527,50
+PGIMER Chandigarh,MBBS,NEET,ST,674,671,671,672,70
+PGIMER Chandigarh,Ayurvedic,NEET,EWS,614,590,592,593,95
+Lady Shri Ram College Delhi,BSc,CUET,ST,254,246,248,250,70
+Christ University Bengaluru,BCA,CUET,GEN,253,265,265,267,50
+AIIMS Delhi,Ayurvedic,NEET,OBC,562,529,532,535,95
+DU Delhi,BSc,CUET,EWS,254,264,266,269,50
+Christ University Bengaluru,BBA,CUET,GEN,291,302,303,305,50
+Christ University Bengaluru,BCA,CUET,OBC,310,297,300,303,80
+MIT Pune,Information Technology,JEE,ST,271,235,235,235,95
+AIIMS Delhi,MBBS,NEET,SC,701,671,671,671,95
+Christ University Bengaluru,BSc,CUET,SC,331,298,301,304,95
+DU Delhi,BBA,CUET,GEN,282,267,267,269,90
+NIT Trichy,Electrical Engineering,JEE,OBC,242,219,220,221,95
+Lady Shri Ram College Delhi,BCA,CUET,OBC,297,285,287,287,90
+Lady Shri Ram College Delhi,BCA,CUET,ST,312,293,293,296,95
+AIIMS Delhi,Physiotherapy,NEET,EWS,599,584,586,589,90
+NIT Trichy,Electrical Engineering,JEE,ST,267,229,229,232,95
+AIIMS Delhi,Physiotherapy,NEET,OBC,669,671,672,674,50
+Lady Shri Ram College Delhi,BCA,CUET,GEN,362,348,351,353,80
+NIT Surathkal,Electrical Engineering,JEE,GEN,222,228,230,232,50
+DU Delhi,BCA,CUET,EWS,289,269,271,272,95
+NIT Trichy,Civil Engineering,JEE,EWS,310,290,292,292,95
+IIT Delhi,Chemical Engineering,JEE,ST,340,332,334,337,70
+AIIMS Delhi,Ayurvedic,NEET,ST,677,662,662,663,90
+St. Xavier Kolkata,BBA,CUET,SC,302,271,272,275,95
+NIT Surathkal,Electronics and Communication Engineering,JEE,GEN,327,339,340,340,50
+Lady Shri Ram College Delhi,BSc,CUET,ST,309,290,293,293,95
+IIT Delhi,Information Technology,JEE,GEN,330,325,328,331,50
+Lady Shri Ram College Delhi,BBA,CUET,OBC,321,313,313,315,80
+Christ University Bengaluru,BSc,CUET,OBC,299,276,279,282,95
+DU Delhi,BCA,CUET,ST,333,311,314,316,95
+St. Xavier Kolkata,BCA,CUET,SC,298,283,286,287,90
+IIT Bombay,Electronics and Communication Engineering,JEE,OBC,264,261,262,265,50
+DU Delhi,BCA,CUET,ST,284,286,287,287,50
+St. Xavier Kolkata,BBA,CUET,OBC,305,302,305,308,50
+CMC Vellore,Physiotherapy,NEET,OBC,588,557,557,559,95
+MIT Pune,Information Technology,JEE,OBC,241,218,218,219,95
+IIIT Hyderabad,Computer Science and Engineering,JEE,EWS,360,348,350,352,80
+Christ University Bengaluru,BSc,CUET,GEN,310,306,306,308,70
+PGIMER Chandigarh,Ayurvedic,NEET,EWS,523,542,545,547,50
+AIIMS Delhi,Dental,NEET,OBC,629,600,600,600,95
+IIT Delhi,Electronics and Communication Engineering,JEE,OBC,200,207,208,210,50
+IIIT Hyderabad,Civil Engineering,JEE,OBC,296,310,312,313,50
+Christ University Bengaluru,BBA,CUET,GEN,331,344,347,347,50
+DU Delhi,BSc,CUET,GEN,258,254,255,257,70
+DU Delhi,BSc,CUET,GEN,323,305,308,309,90
+IIT Bombay,Electrical Engineering,JEE,ST,222,186,188,190,95
+NIT Trichy,Computer Science and Engineering,JEE,OBC,309,286,288,290,95
+AIIMS Delhi,Physiotherapy,NEET,GEN,613,610,610,610,70
+NIT Surathkal,Mechanical Engineering,JEE,GEN,272,276,276,279,50
+JIPMER Puducherry,MBBS,NEET,EWS,520,541,544,547,50
+PGIMER Chandigarh,Dental,NEET,OBC,633,650,650,653,50
+DU Delhi,BBA,CUET,OBC,283,262,262,265,95
+JIPMER Puducherry,Dental,NEET,GEN,517,516,518,518,50
+VIT Vellore,Civil Engineering,JEE,OBC,367,345,348,349,95
+PGIMER Chandigarh,Ayurvedic,NEET,EWS,536,526,529,529,80
+Christ University Bengaluru,BBA,CUET,SC,296,276,277,279,95
+St. Xavier Kolkata,BBA,CUET,SC,344,323,326,328,95
+DU Delhi,BSc,CUET,ST,278,261,264,267,90
+JIPMER Puducherry,Physiotherapy,NEET,OBC,584,557,559,561,95
+NIT Surathkal,Computer Science and Engineering,JEE,SC,314,291,292,294,95
+BITS Pilani,Electronics and Communication Engineering,JEE,OBC,226,221,221,222,70
+St. Xavier Kolkata,BCA,CUET,ST,298,300,303,306,50
+Christ University Bengaluru,BCA,CUET,ST,356,330,333,334,95
+MIT Pune,Information Technology,JEE,ST,306,287,288,289,95
+St. Xavier Kolkata,BSc,CUET,OBC,353,339,341,343,90
+KEM Mumbai,Physiotherapy,NEET,ST,611,620,623,626,50
+JIPMER Puducherry,MBBS,NEET,ST,640,609,612,612,95
+IIT Delhi,Electrical Engineering,JEE,SC,236,223,225,225,90
+Lady Shri Ram College Delhi,BBA,CUET,OBC,269,276,279,280,50
+AIIMS Delhi,MBBS,NEET,SC,589,560,562,564,95
+IIIT Hyderabad,Information Technology,JEE,OBC,340,340,342,345,50
+KEM Mumbai,Dental,NEET,EWS,521,539,542,544,50
+St. Xavier Kolkata,BBA,CUET,GEN,320,316,318,318,70
+DU Delhi,BSc,CUET,ST,250,240,243,243,80
+Lady Shri Ram College Delhi,BCA,CUET,OBC,355,341,341,342,90
+AIIMS Delhi,Dental,NEET,OBC,515,540,540,542,50
+JIPMER Puducherry,Physiotherapy,NEET,GEN,630,614,614,616,90
+MIT Pune,Electrical Engineering,JEE,SC,229,203,206,207,95
+St. Xavier Kolkata,BSc,CUET,EWS,252,262,264,267,50
+JIPMER Puducherry,Physiotherapy,NEET,ST,537,492,492,495,95
+IIIT Hyderabad,Civil Engineering,JEE,SC,337,309,312,314,95
+JIPMER Puducherry,Physiotherapy,NEET,OBC,642,626,626,628,90
+AIIMS Delhi,Ayurvedic,NEET,SC,662,632,633,636,95
+DU Delhi,BSc,CUET,SC,247,237,240,241,80
+NIT Trichy,Civil Engineering,JEE,GEN,292,294,296,299,50
+IIIT Hyderabad,Civil Engineering,JEE,SC,320,318,319,322,50
+CMC Vellore,Dental,NEET,SC,663,654,657,660,70
+IIIT Hyderabad,Information Technology,JEE,OBC,343,341,342,344,50
+St. Xavier Kolkata,BSc,CUET,SC,312,288,288,288,95
+St. Xavier Kolkata,BBA,CUET,ST,303,305,308,311,50
+JIPMER Puducherry,Ayurvedic,NEET,ST,696,666,669,671,95
+AIIMS Delhi,Dental,NEET,GEN,492,507,508,508,50
+NIT Surathkal,Electronics and Communication Engineering,JEE,OBC,361,345,347,350,90
+JIPMER Puducherry,Physiotherapy,NEET,EWS,653,650,650,650,70
+AIIMS Delhi,Ayurvedic,NEET,ST,530,520,520,520,90
+PGIMER Chandigarh,MBBS,NEET,OBC,631,597,600,601,95
+DU Delhi,BCA,CUET,OBC,280,259,262,263,95
+CMC Vellore,MBBS,NEET,EWS,532,530,530,530,70
+IIT Delhi,Civil Engineering,JEE,GEN,193,202,204,207,50
+Christ University Bengaluru,BSc,CUET,GEN,295,315,316,317,50
+KEM Mumbai,Physiotherapy,NEET,ST,603,597,599,599,70
+PGIMER Chandigarh,Ayurvedic,NEET,EWS,564,539,542,542,95
+St. Xavier Kolkata,BSc,CUET,EWS,320,325,328,330,50
+DU Delhi,BSc,CUET,ST,271,240,240,240,95
+NIT Surathkal,Electrical Engineering,JEE,GEN,320,329,329,331,50
+NIT Surathkal,Civil Engineering,JEE,GEN,263,279,282,283,50
+CMC Vellore,Physiotherapy,NEET,SC,678,636,636,638,95
+NIT Surathkal,Mechanical Engineering,JEE,EWS,194,204,205,207,50
+KEM Mumbai,Ayurvedic,NEET,OBC,521,542,545,546,50
+DU Delhi,BCA,CUET,SC,316,299,302,305,90
+KEM Mumbai,MBBS,NEET,ST,610,618,620,623,50
+Lady Shri Ram College Delhi,BBA,CUET,SC,272,255,258,260,90
+IIT Delhi,Civil Engineering,JEE,GEN,329,321,323,323,80
+KEM Mumbai,Dental,NEET,EWS,596,600,600,602,50
+MIT Pune,Civil Engineering,JEE,ST,265,261,263,263,70
+PGIMER Chandigarh,MBBS,NEET,SC,520,525,526,529,50
+JIPMER Puducherry,Ayurvedic,NEET,OBC,567,573,575,575,50
+IIT Bombay,Electrical Engineering,JEE,OBC,346,324,326,327,95
+PGIMER Chandigarh,Dental,NEET,OBC,543,534,537,537,80
+IIIT Hyderabad,Chemical Engineering,JEE,OBC,283,265,266,268,95
+AIIMS Delhi,Dental,NEET,EWS,562,589,591,591,50
+CMC Vellore,Dental,NEET,OBC,658,653,654,657,70
+JIPMER Puducherry,MBBS,NEET,OBC,701,689,692,693,80
+KEM Mumbai,Dental,NEET,EWS,669,678,680,681,50
+Lady Shri Ram College Delhi,BSc,CUET,OBC,297,280,283,286,90
+Lady Shri Ram College Delhi,BBA,CUET,ST,296,272,273,274,95
+Lady Shri Ram College Delhi,BCA,CUET,SC,273,251,253,256,95
+IIIT Hyderabad,Electrical Engineering,JEE,ST,260,233,233,233,95
+Lady Shri Ram College Delhi,BBA,CUET,EWS,327,322,323,326,70
+DU Delhi,BSc,CUET,OBC,311,326,327,330,50
+NIT Surathkal,Civil Engineering,JEE,OBC,206,200,202,204,70
+DU Delhi,BBA,CUET,EWS,307,317,318,319,50
+MIT Pune,Electronics and Communication Engineering,JEE,EWS,240,256,256,257,50
+IIIT Hyderabad,Civil Engineering,JEE,OBC,319,326,327,327,50
+NIT Trichy,Computer Science and Engineering,JEE,ST,286,278,279,279,80
+VIT Vellore,Computer Science and Engineering,JEE,EWS,231,228,231,232,50
+IIT Delhi,Mechanical Engineering,JEE,ST,327,327,328,330,50
+St. Xavier Kolkata,BCA,CUET,ST,311,308,310,312,50
+PGIMER Chandigarh,Ayurvedic,NEET,GEN,551,542,543,546,80
+BITS Pilani,Civil Engineering,JEE,EWS,239,240,240,242,50
+CMC Vellore,Dental,NEET,SC,554,525,527,527,95
+St. Xavier Kolkata,BBA,CUET,GEN,306,316,317,319,50
+PGIMER Chandigarh,Dental,NEET,OBC,682,662,663,663,95
+DU Delhi,BCA,CUET,OBC,266,259,260,263,70
+Lady Shri Ram College Delhi,BSc,CUET,OBC,292,299,300,302,50
+NIT Trichy,Mechanical Engineering,JEE,ST,239,207,209,210,95
+IIIT Hyderabad,Civil Engineering,JEE,GEN,200,202,204,205,50
+NIT Surathkal,Information Technology,JEE,EWS,351,331,332,333,95
+Christ University Bengaluru,BBA,CUET,SC,273,258,258,258,95
+Lady Shri Ram College Delhi,BSc,CUET,GEN,269,280,283,285,50
+Christ University Bengaluru,BSc,CUET,SC,344,312,312,312,95
+AIIMS Delhi,Physiotherapy,NEET,OBC,577,553,555,555,95
+KEM Mumbai,Physiotherapy,NEET,GEN,583,572,575,575,80
+AIIMS Delhi,Dental,NEET,GEN,534,539,542,544,50
+IIIT Hyderabad,Civil Engineering,JEE,OBC,312,305,308,308,70
+NIT Trichy,Civil Engineering,JEE,EWS,261,267,269,271,50
+JIPMER Puducherry,Ayurvedic,NEET,GEN,698,668,671,674,95
+DU Delhi,BCA,CUET,OBC,287,273,275,278,80
+DU Delhi,BCA,CUET,GEN,284,283,283,285,50
+MIT Pune,Information Technology,JEE,EWS,342,322,325,325,95
+KEM Mumbai,MBBS,NEET,GEN,514,524,524,525,50
+Christ University Bengaluru,BSc,CUET,EWS,300,301,301,302,50
+AIIMS Delhi,Physiotherapy,NEET,SC,636,606,607,608,95
+CMC Vellore,Ayurvedic,NEET,ST,515,512,513,515,70
+AIIMS Delhi,Ayurvedic,NEET,SC,618,631,632,634,50
+VIT Vellore,Information Technology,JEE,SC,300,283,283,283,95
+St. Xavier Kolkata,BBA,CUET,EWS,332,326,327,330,70
+IIT Delhi,Mechanical Engineering,JEE,ST,253,234,237,239,90
+CMC Vellore,MBBS,NEET,OBC,663,668,668,669,50
+VIT Vellore,Civil Engineering,JEE,EWS,307,288,290,292,95
+PGIMER Chandigarh,Ayurvedic,NEET,OBC,623,622,625,626,50
+AIIMS Delhi,Dental,NEET,EWS,585,569,569,570,95
+NIT Trichy,Computer Science and Engineering,JEE,EWS,201,203,205,208,50
+Lady Shri Ram College Delhi,BSc,CUET,EWS,287,289,289,292,50
+Lady Shri Ram College Delhi,BBA,CUET,EWS,353,340,343,344,80
+St. Xavier Kolkata,BSc,CUET,GEN,280,291,293,295,50
+BITS Pilani,Computer Science and Engineering,JEE,EWS,257,243,244,246,90
+Christ University Bengaluru,BBA,CUET,OBC,244,253,255,255,50
+St. Xavier Kolkata,BBA,CUET,GEN,352,346,349,351,70
+PGIMER Chandigarh,Dental,NEET,GEN,642,614,616,616,95
+CMC Vellore,Ayurvedic,NEET,SC,588,569,570,571,95
+VIT Vellore,Mechanical Engineering,JEE,GEN,286,289,289,291,50
+NIT Trichy,Civil Engineering,JEE,SC,318,315,318,320,50
+IIT Bombay,Chemical Engineering,JEE,GEN,271,256,256,259,90
+NIT Surathkal,Civil Engineering,JEE,SC,219,200,200,202,95
+St. Xavier Kolkata,BSc,CUET,GEN,291,303,305,306,50
+St. Xavier Kolkata,BBA,CUET,SC,298,304,306,307,50
+CMC Vellore,Physiotherapy,NEET,ST,583,578,580,582,70
+St. Xavier Kolkata,BBA,CUET,GEN,284,280,283,284,70
+IIT Delhi,Electrical Engineering,JEE,SC,335,303,303,303,95
+PGIMER Chandigarh,Physiotherapy,NEET,SC,625,640,640,642,50
+Lady Shri Ram College Delhi,BCA,CUET,GEN,322,316,318,320,70
+PGIMER Chandigarh,Dental,NEET,OBC,549,526,527,527,95
+CMC Vellore,Ayurvedic,NEET,SC,604,602,605,608,50
+MIT Pune,Mechanical Engineering,JEE,SC,310,291,291,294,95
+Lady Shri Ram College Delhi,BBA,CUET,SC,342,313,313,313,95
+IIT Bombay,Electrical Engineering,JEE,EWS,265,250,253,254,90
+IIT Delhi,Chemical Engineering,JEE,OBC,222,210,212,213,80
+DU Delhi,BCA,CUET,ST,284,246,247,249,95
+St. Xavier Kolkata,BCA,CUET,OBC,297,314,315,315,50
+CMC Vellore,MBBS,NEET,SC,648,652,652,652,50
+JIPMER Puducherry,Dental,NEET,ST,575,553,553,555,95
+PGIMER Chandigarh,Ayurvedic,NEET,OBC,587,582,585,588,50
+DU Delhi,BBA,CUET,SC,325,321,321,324,70
+IIIT Hyderabad,Information Technology,JEE,ST,257,241,243,245,90
+Christ University Bengaluru,BBA,CUET,OBC,246,254,254,255,50
+Christ University Bengaluru,BBA,CUET,EWS,320,318,320,323,50
+KEM Mumbai,MBBS,NEET,SC,684,681,681,682,70
+VIT Vellore,Chemical Engineering,JEE,GEN,280,290,293,294,50
+AIIMS Delhi,MBBS,NEET,SC,499,510,511,513,50
+St. Xavier Kolkata,BCA,CUET,EWS,344,340,342,344,70
+DU Delhi,BCA,CUET,SC,317,298,298,301,95
+St. Xavier Kolkata,BCA,CUET,EWS,302,296,296,297,80
+KEM Mumbai,Physiotherapy,NEET,ST,541,499,499,500,95
+JIPMER Puducherry,Physiotherapy,NEET,GEN,548,539,541,542,80
+IIT Delhi,Electrical Engineering,JEE,SC,215,194,195,195,95
+PGIMER Chandigarh,Physiotherapy,NEET,ST,535,492,495,497,95
+CMC Vellore,Dental,NEET,GEN,635,653,656,656,50
+AIIMS Delhi,Physiotherapy,NEET,ST,562,527,527,529,95
+KEM Mumbai,Ayurvedic,NEET,GEN,512,534,536,539,50
+Lady Shri Ram College Delhi,BSc,CUET,SC,233,238,241,243,50
+Lady Shri Ram College Delhi,BBA,CUET,SC,300,291,294,296,70
+CMC Vellore,Ayurvedic,NEET,ST,650,660,660,661,50
+NIT Trichy,Information Technology,JEE,OBC,213,198,198,200,90
+DU Delhi,BBA,CUET,GEN,321,325,328,330,50
+BITS Pilani,Chemical Engineering,JEE,OBC,269,255,258,259,90
+AIIMS Delhi,MBBS,NEET,EWS,554,531,534,535,95
+IIIT Hyderabad,Electronics and Communication Engineering,JEE,EWS,334,321,322,324,90
+IIT Bombay,Electronics and Communication Engineering,JEE,SC,320,289,291,292,95
+IIIT Hyderabad,Mechanical Engineering,JEE,SC,309,279,282,284,95
+IIIT Hyderabad,Information Technology,JEE,OBC,324,311,312,314,90
+Christ University Bengaluru,BBA,CUET,GEN,313,321,323,325,50
+IIT Bombay,Chemical Engineering,JEE,SC,281,288,289,290,50
+PGIMER Chandigarh,Ayurvedic,NEET,SC,646,610,612,615,95
+St. Xavier Kolkata,BBA,CUET,OBC,291,285,288,291,70
+IIIT Hyderabad,Mechanical Engineering,JEE,OBC,228,242,242,245,50
+Christ University Bengaluru,BCA,CUET,ST,264,263,264,267,50
+MIT Pune,Computer Science and Engineering,JEE,OBC,267,263,265,266,70
+BITS Pilani,Information Technology,JEE,SC,216,223,224,224,50
+NIT Trichy,Civil Engineering,JEE,ST,342,311,311,312,95
+Lady Shri Ram College Delhi,BSc,CUET,GEN,290,302,302,305,50
+VIT Vellore,Chemical Engineering,JEE,GEN,334,348,348,350,50
+CMC Vellore,Dental,NEET,EWS,610,596,599,602,80
+IIT Bombay,Electronics and Communication Engineering,JEE,ST,342,307,309,310,95
+JIPMER Puducherry,MBBS,NEET,SC,640,650,651,654,50
+IIT Delhi,Electronics and Communication Engineering,JEE,SC,247,242,242,245,70
+KEM Mumbai,Ayurvedic,NEET,ST,629,635,637,638,50
+AIIMS Delhi,Physiotherapy,NEET,ST,520,497,499,501,95
+BITS Pilani,Computer Science and Engineering,JEE,GEN,325,328,328,329,50
+Christ University Bengaluru,BSc,CUET,OBC,276,255,258,260,95
+PGIMER Chandigarh,Physiotherapy,NEET,OBC,609,619,619,620,50
+St. Xavier Kolkata,BSc,CUET,GEN,319,311,314,315,70
+Christ University Bengaluru,BSc,CUET,SC,270,256,257,259,90
+CMC Vellore,MBBS,NEET,EWS,573,583,584,587,50
+IIT Bombay,Electrical Engineering,JEE,ST,258,238,239,242,95
+MIT Pune,Civil Engineering,JEE,EWS,315,320,323,324,50
+Lady Shri Ram College Delhi,BCA,CUET,EWS,291,289,292,293,50
+IIT Bombay,Civil Engineering,JEE,GEN,319,315,315,315,70
+IIT Bombay,Computer Science and Engineering,JEE,SC,231,216,217,218,90
+CMC Vellore,Ayurvedic,NEET,GEN,488,511,514,514,50
+BITS Pilani,Mechanical Engineering,JEE,EWS,306,316,318,318,50
+IIIT Hyderabad,Mechanical Engineering,JEE,EWS,286,266,267,267,95
+VIT Vellore,Chemical Engineering,JEE,ST,234,200,202,202,95
+St. Xavier Kolkata,BBA,CUET,OBC,322,316,318,318,70
+PGIMER Chandigarh,Physiotherapy,NEET,OBC,503,510,510,513,50
+St. Xavier Kolkata,BCA,CUET,SC,299,281,281,281,95
+St. Xavier Kolkata,BCA,CUET,EWS,244,249,252,253,50
+JIPMER Puducherry,MBBS,NEET,SC,706,676,679,679,95
+BITS Pilani,Mechanical Engineering,JEE,OBC,352,334,337,337,95
+Lady Shri Ram College Delhi,BBA,CUET,OBC,335,344,346,347,50
+JIPMER Puducherry,Dental,NEET,GEN,598,577,578,579,95
+AIIMS Delhi,MBBS,NEET,OBC,590,578,579,581,80
+CMC Vellore,Dental,NEET,OBC,559,568,569,570,50
+Lady Shri Ram College Delhi,BSc,CUET,GEN,241,260,262,265,50
+Lady Shri Ram College Delhi,BCA,CUET,EWS,265,270,270,273,50
+NIT Surathkal,Mechanical Engineering,JEE,EWS,289,286,287,289,70
+IIIT Hyderabad,Civil Engineering,JEE,ST,308,303,303,306,70
+PGIMER Chandigarh,MBBS,NEET,ST,526,516,519,520,80
+IIT Delhi,Mechanical Engineering,JEE,GEN,343,325,326,328,95
+Christ University Bengaluru,BBA,CUET,ST,284,271,273,274,90
+Christ University Bengaluru,BSc,CUET,ST,257,244,245,246,90
+KEM Mumbai,Physiotherapy,NEET,ST,659,623,625,626,95
+VIT Vellore,Mechanical Engineering,JEE,EWS,233,238,239,242,50
+KEM Mumbai,Ayurvedic,NEET,OBC,672,694,697,700,50
+VIT Vellore,Civil Engineering,JEE,SC,288,262,265,265,95
+CMC Vellore,Dental,NEET,ST,586,575,576,578,80
+AIIMS Delhi,Dental,NEET,SC,635,611,614,614,95
+DU Delhi,BSc,CUET,GEN,267,283,283,286,50
+MIT Pune,Information Technology,JEE,GEN,306,317,320,323,50
+AIIMS Delhi,Ayurvedic,NEET,GEN,662,690,692,695,50
+AIIMS Delhi,Ayurvedic,NEET,SC,577,552,552,553,95
+Christ University Bengaluru,BCA,CUET,GEN,288,301,304,307,50
+KEM Mumbai,Physiotherapy,NEET,EWS,564,574,575,577,50
+KEM Mumbai,Physiotherapy,NEET,GEN,614,611,613,615,50
+CMC Vellore,Ayurvedic,NEET,OBC,656,681,683,686,50
+Christ University Bengaluru,BSc,CUET,OBC,355,332,332,332,95
+NIT Trichy,Computer Science and Engineering,JEE,SC,247,241,242,245,70
+IIIT Hyderabad,Electronics and Communication Engineering,JEE,OBC,286,269,272,273,90
+KEM Mumbai,MBBS,NEET,OBC,653,633,635,636,95
+CMC Vellore,Dental,NEET,OBC,618,591,591,594,95
+Lady Shri Ram College Delhi,BCA,CUET,OBC,287,286,286,289,50
+NIT Surathkal,Computer Science and Engineering,JEE,EWS,216,200,201,204,90
+NIT Trichy,Information Technology,JEE,EWS,218,211,213,214,70
+AIIMS Delhi,Physiotherapy,NEET,EWS,693,665,666,667,95
+KEM Mumbai,MBBS,NEET,OBC,522,500,502,503,95
+DU Delhi,BCA,CUET,OBC,262,265,266,266,50
+CMC Vellore,Dental,NEET,ST,496,506,506,506,50
+Christ University Bengaluru,BCA,CUET,EWS,337,337,338,338,50
+AIIMS Delhi,Dental,NEET,OBC,514,520,522,524,50
+St. Xavier Kolkata,BCA,CUET,GEN,306,315,315,318,50
+MIT Pune,Chemical Engineering,JEE,GEN,307,290,292,294,90
+NIT Surathkal,Computer Science and Engineering,JEE,GEN,230,210,213,214,95
+CMC Vellore,Ayurvedic,NEET,EWS,660,678,680,681,50
+KEM Mumbai,Physiotherapy,NEET,EWS,581,575,575,575,80
+DU Delhi,BCA,CUET,GEN,313,324,324,324,50
+JIPMER Puducherry,Physiotherapy,NEET,SC,693,650,652,652,95
+St. Xavier Kolkata,BCA,CUET,SC,270,258,261,263,80
+DU Delhi,BSc,CUET,GEN,286,297,299,302,50
+St. Xavier Kolkata,BCA,CUET,ST,280,254,256,258,95
+Lady Shri Ram College Delhi,BSc,CUET,OBC,328,306,309,310,95
+KEM Mumbai,Dental,NEET,ST,557,547,549,551,80
+KEM Mumbai,MBBS,NEET,ST,706,676,678,680,95
+NIT Trichy,Information Technology,JEE,ST,286,286,288,288,50
+Christ University Bengaluru,BBA,CUET,ST,340,323,323,323,95
+NIT Surathkal,Electronics and Communication Engineering,JEE,SC,324,295,296,296,95
+CMC Vellore,Dental,NEET,OBC,658,663,665,665,50
+Lady Shri Ram College Delhi,BBA,CUET,EWS,338,344,345,345,50
+CMC Vellore,Ayurvedic,NEET,OBC,568,568,571,573,50
+IIIT Hyderabad,Information Technology,JEE,SC,228,194,194,197,95
+IIT Bombay,Electronics and Communication Engineering,JEE,ST,196,197,200,202,50
+JIPMER Puducherry,Physiotherapy,NEET,SC,563,568,568,570,50
+KEM Mumbai,Ayurvedic,NEET,EWS,607,578,579,581,95
+DU Delhi,BSc,CUET,OBC,275,262,262,265,90
+DU Delhi,BCA,CUET,GEN,244,256,257,258,50
+AIIMS Delhi,MBBS,NEET,SC,624,612,612,612,90
+Christ University Bengaluru,BBA,CUET,ST,366,330,331,331,95
+IIIT Hyderabad,Information Technology,JEE,ST,344,310,312,312,95
+DU Delhi,BBA,CUET,OBC,284,281,284,285,50
+NIT Surathkal,Civil Engineering,JEE,ST,347,314,316,318,95
+IIT Delhi,Mechanical Engineering,JEE,SC,216,219,220,220,50
+VIT Vellore,Computer Science and Engineering,JEE,ST,212,196,198,198,90
+Lady Shri Ram College Delhi,BCA,CUET,ST,313,285,288,290,95
+PGIMER Chandigarh,Ayurvedic,NEET,OBC,686,664,665,668,95
+CMC Vellore,Ayurvedic,NEET,EWS,629,609,611,614,95
+NIT Trichy,Computer Science and Engineering,JEE,SC,258,265,265,265,50
+IIT Delhi,Electrical Engineering,JEE,ST,235,230,231,233,70
+IIIT Hyderabad,Chemical Engineering,JEE,GEN,352,335,335,336,95
+Christ University Bengaluru,BBA,CUET,SC,310,313,315,316,50
+Lady Shri Ram College Delhi,BBA,CUET,GEN,311,311,312,312,50
+KEM Mumbai,MBBS,NEET,SC,493,496,496,499,50
+St. Xavier Kolkata,BCA,CUET,EWS,314,292,292,293,95
+JIPMER Puducherry,Dental,NEET,GEN,549,561,561,561,50
+Lady Shri Ram College Delhi,BSc,CUET,EWS,340,341,343,346,50
+Christ University Bengaluru,BSc,CUET,GEN,274,262,264,266,80
+PGIMER Chandigarh,MBBS,NEET,GEN,599,577,580,582,95
+Christ University Bengaluru,BCA,CUET,OBC,240,248,251,251,50
+JIPMER Puducherry,Ayurvedic,NEET,SC,675,684,685,687,50
+Christ University Bengaluru,BBA,CUET,ST,343,307,308,310,95
+AIIMS Delhi,Dental,NEET,OBC,558,564,564,566,50
+NIT Trichy,Electronics and Communication Engineering,JEE,EWS,230,222,225,227,70
+AIIMS Delhi,Physiotherapy,NEET,OBC,620,600,602,604,95
+MIT Pune,Electronics and Communication Engineering,JEE,SC,242,228,231,232,90
+NIT Surathkal,Electronics and Communication Engineering,JEE,ST,241,210,212,215,95
+IIIT Hyderabad,Mechanical Engineering,JEE,ST,283,278,281,281,70
+JIPMER Puducherry,Dental,NEET,ST,657,663,665,668,50
+NIT Surathkal,Electronics and Communication Engineering,JEE,OBC,274,266,266,267,80
+BITS Pilani,Information Technology,JEE,EWS,307,308,310,312,50
+VIT Vellore,Electrical Engineering,JEE,SC,259,258,260,261,50
+Lady Shri Ram College Delhi,BCA,CUET,GEN,306,301,303,303,70
+KEM Mumbai,Dental,NEET,EWS,634,647,650,651,50
+CMC Vellore,Physiotherapy,NEET,EWS,622,597,600,601,95
+DU Delhi,BBA,CUET,OBC,256,264,264,264,50
+MIT Pune,Civil Engineering,JEE,SC,259,239,242,243,95
+KEM Mumbai,Physiotherapy,NEET,ST,556,528,529,532,95
+KEM Mumbai,MBBS,NEET,SC,615,598,598,601,90
+IIT Bombay,Mechanical Engineering,JEE,ST,287,260,262,264,95
+IIIT Hyderabad,Computer Science and Engineering,JEE,EWS,235,231,231,234,70
+KEM Mumbai,Physiotherapy,NEET,OBC,604,573,574,574,95
+AIIMS Delhi,Dental,NEET,ST,678,639,639,639,95
+BITS Pilani,Information Technology,JEE,OBC,201,214,217,219,50
+AIIMS Delhi,MBBS,NEET,GEN,537,564,564,565,50
+DU Delhi,BCA,CUET,ST,272,246,246,248,95
+NIT Surathkal,Electrical Engineering,JEE,EWS,275,262,265,266,80
+PGIMER Chandigarh,Ayurvedic,NEET,GEN,546,550,552,555,50
+Lady Shri Ram College Delhi,BSc,CUET,EWS,334,346,349,349,50
+NIT Trichy,Information Technology,JEE,SC,204,191,191,194,90
+CMC Vellore,Physiotherapy,NEET,ST,646,653,656,657,50
+PGIMER Chandigarh,Ayurvedic,NEET,GEN,676,648,650,653,95
+Christ University Bengaluru,BCA,CUET,GEN,239,256,256,258,50
+Lady Shri Ram College Delhi,BBA,CUET,GEN,291,305,306,308,50
+IIT Delhi,Mechanical Engineering,JEE,SC,350,322,322,322,95
+Christ University Bengaluru,BBA,CUET,SC,350,336,338,339,90
+CMC Vellore,Dental,NEET,EWS,527,506,508,511,95
+Lady Shri Ram College Delhi,BCA,CUET,OBC,316,294,295,296,95
+KEM Mumbai,Ayurvedic,NEET,ST,544,541,543,544,70
+Lady Shri Ram College Delhi,BCA,CUET,OBC,283,268,269,270,90
+KEM Mumbai,Ayurvedic,NEET,SC,566,573,573,576,50
+KEM Mumbai,Dental,NEET,GEN,501,516,516,519,50
+IIT Delhi,Civil Engineering,JEE,SC,312,311,311,314,50
+Lady Shri Ram College Delhi,BBA,CUET,EWS,245,255,255,255,50
+Lady Shri Ram College Delhi,BBA,CUET,ST,257,249,251,253,70
+Lady Shri Ram College Delhi,BBA,CUET,ST,292,256,257,260,95
+St. Xavier Kolkata,BCA,CUET,OBC,297,290,293,294,70
+Lady Shri Ram College Delhi,BSc,CUET,GEN,287,274,275,275,90
+KEM Mumbai,Ayurvedic,NEET,GEN,546,564,565,565,50
+JIPMER Puducherry,MBBS,NEET,ST,663,620,620,622,95
+Lady Shri Ram College Delhi,BSc,CUET,SC,327,308,311,312,95
+JIPMER Puducherry,Physiotherapy,NEET,SC,530,515,516,516,90
+Christ University Bengaluru,BSc,CUET,EWS,308,310,311,312,50
+PGIMER Chandigarh,Physiotherapy,NEET,ST,545,527,529,531,90
+St. Xavier Kolkata,BBA,CUET,GEN,263,259,260,261,70
+IIT Delhi,Electronics and Communication Engineering,JEE,OBC,213,228,229,231,50
+IIT Delhi,Information Technology,JEE,GEN,267,286,286,289,50
+IIIT Hyderabad,Chemical Engineering,JEE,OBC,327,317,319,322,80
+CMC Vellore,Dental,NEET,OBC,550,543,543,546,70
+AIIMS Delhi,Dental,NEET,SC,546,542,545,546,70
+MIT Pune,Information Technology,JEE,EWS,304,298,300,303,70
+NIT Trichy,Electrical Engineering,JEE,OBC,242,246,248,251,50
+JIPMER Puducherry,Ayurvedic,NEET,OBC,496,517,517,520,50
+Christ University Bengaluru,BBA,CUET,OBC,300,300,300,302,50
+Lady Shri Ram College Delhi,BBA,CUET,ST,314,294,294,294,95
+NIT Trichy,Mechanical Engineering,JEE,ST,206,199,200,200,80
+JIPMER Puducherry,Ayurvedic,NEET,OBC,636,621,621,622,90
+PGIMER Chandigarh,Physiotherapy,NEET,OBC,583,558,560,561,95
+JIPMER Puducherry,Physiotherapy,NEET,SC,717,681,684,687,95
+BITS Pilani,Mechanical Engineering,JEE,GEN,291,285,286,286,80
+DU Delhi,BCA,CUET,GEN,252,261,264,266,50
+NIT Trichy,Mechanical Engineering,JEE,ST,297,299,300,301,50
+NIT Trichy,Mechanical Engineering,JEE,OBC,292,304,306,306,50
+Christ University Bengaluru,BSc,CUET,OBC,266,252,253,255,90
+IIT Bombay,Mechanical Engineering,JEE,SC,299,302,302,305,50
+PGIMER Chandigarh,Physiotherapy,NEET,OBC,520,537,540,543,50
+AIIMS Delhi,Ayurvedic,NEET,EWS,542,569,570,571,50
+Christ University Bengaluru,BSc,CUET,GEN,306,297,298,298,80
+MIT Pune,Chemical Engineering,JEE,GEN,308,290,292,293,95
+St. Xavier Kolkata,BBA,CUET,OBC,309,284,286,288,95
+Lady Shri Ram College Delhi,BCA,CUET,OBC,257,261,263,263,50
+DU Delhi,BSc,CUET,ST,262,252,252,252,90
+Christ University Bengaluru,BSc,CUET,SC,314,300,303,306,80
+IIT Delhi,Civil Engineering,JEE,OBC,362,342,345,346,95
+CMC Vellore,Physiotherapy,NEET,SC,588,581,584,586,70
+DU Delhi,BSc,CUET,SC,272,247,248,251,95
+Christ University Bengaluru,BBA,CUET,SC,258,240,240,243,95
+KEM Mumbai,Ayurvedic,NEET,OBC,530,536,537,539,50
+JIPMER Puducherry,Dental,NEET,OBC,677,652,654,656,95
+DU Delhi,BBA,CUET,OBC,356,334,337,337,95
+CMC Vellore,MBBS,NEET,OBC,569,573,575,575,50
+DU Delhi,BSc,CUET,OBC,346,344,347,348,50
+IIT Delhi,Computer Science and Engineering,JEE,ST,321,315,317,319,70
+PGIMER Chandigarh,MBBS,NEET,ST,485,495,495,497,50
+St. Xavier Kolkata,BSc,CUET,OBC,295,292,293,293,70
+AIIMS Delhi,Dental,NEET,OBC,659,631,634,637,95
+St. Xavier Kolkata,BSc,CUET,SC,273,242,242,243,95
+BITS Pilani,Mechanical Engineering,JEE,GEN,209,220,223,226,50
+CMC Vellore,Physiotherapy,NEET,ST,538,498,501,504,95
+Christ University Bengaluru,BCA,CUET,GEN,296,312,315,317,50
+JIPMER Puducherry,Ayurvedic,NEET,ST,640,637,640,641,50
+DU Delhi,BCA,CUET,OBC,263,254,255,257,80
+PGIMER Chandigarh,Ayurvedic,NEET,GEN,515,522,525,528,50
+AIIMS Delhi,Ayurvedic,NEET,OBC,644,648,651,651,50
+IIT Bombay,Electronics and Communication Engineering,JEE,SC,310,310,313,314,50
+Christ University Bengaluru,BCA,CUET,GEN,276,270,270,271,80
+St. Xavier Kolkata,BSc,CUET,ST,320,303,305,305,95
+DU Delhi,BBA,CUET,SC,335,327,327,327,80
+MIT Pune,Chemical Engineering,JEE,ST,265,259,262,262,70
+KEM Mumbai,MBBS,NEET,GEN,489,518,521,524,50
+AIIMS Delhi,Ayurvedic,NEET,OBC,596,592,593,595,70
+St. Xavier Kolkata,BCA,CUET,OBC,285,263,265,265,95
+JIPMER Puducherry,Dental,NEET,EWS,689,694,695,695,50
+St. Xavier Kolkata,BCA,CUET,OBC,299,282,283,285,90
+NIT Surathkal,Electronics and Communication Engineering,JEE,ST,295,260,263,265,95
+PGIMER Chandigarh,Ayurvedic,NEET,ST,584,537,537,538,95
+Christ University Bengaluru,BCA,CUET,SC,322,289,289,291,95
+NIT Surathkal,Chemical Engineering,JEE,GEN,304,292,294,296,80
+CMC Vellore,Ayurvedic,NEET,OBC,675,644,646,648,95
+PGIMER Chandigarh,Ayurvedic,NEET,SC,530,518,520,523,80
+DU Delhi,BBA,CUET,ST,316,296,299,300,95
+NIT Surathkal,Chemical Engineering,JEE,OBC,327,315,318,321,80
+KEM Mumbai,Ayurvedic,NEET,ST,535,506,506,507,95
+Lady Shri Ram College Delhi,BCA,CUET,OBC,337,330,331,331,80
+JIPMER Puducherry,Physiotherapy,NEET,EWS,584,569,570,571,90
+AIIMS Delhi,MBBS,NEET,EWS,515,539,541,544,50
+IIT Delhi,Mechanical Engineering,JEE,OBC,216,200,203,203,90
+St. Xavier Kolkata,BBA,CUET,ST,294,296,299,302,50
+DU Delhi,BBA,CUET,EWS,333,341,344,344,50
+KEM Mumbai,MBBS,NEET,EWS,700,667,667,670,95
+CMC Vellore,Ayurvedic,NEET,EWS,553,525,526,528,95
+PGIMER Chandigarh,MBBS,NEET,OBC,587,573,576,576,90
+NIT Surathkal,Electrical Engineering,JEE,GEN,257,270,271,273,50
+AIIMS Delhi,Dental,NEET,OBC,654,671,674,676,50
+IIT Delhi,Electronics and Communication Engineering,JEE,SC,278,249,250,251,95
+Lady Shri Ram College Delhi,BCA,CUET,OBC,277,273,276,277,70
+IIIT Hyderabad,Electrical Engineering,JEE,EWS,257,242,242,243,90
+BITS Pilani,Mechanical Engineering,JEE,EWS,254,241,242,243,90
+AIIMS Delhi,Ayurvedic,NEET,SC,585,568,571,574,90
+St. Xavier Kolkata,BSc,CUET,SC,245,247,247,250,50
+KEM Mumbai,Physiotherapy,NEET,EWS,668,644,645,645,95
+VIT Vellore,Civil Engineering,JEE,GEN,213,201,204,207,80
+PGIMER Chandigarh,MBBS,NEET,SC,584,551,554,557,95
+Lady Shri Ram College Delhi,BBA,CUET,ST,278,250,250,251,95
+Christ University Bengaluru,BBA,CUET,SC,329,315,318,318,90
+NIT Trichy,Mechanical Engineering,JEE,SC,239,233,235,238,70
+DU Delhi,BBA,CUET,OBC,262,258,261,261,70
+VIT Vellore,Information Technology,JEE,SC,207,191,193,193,90
+MIT Pune,Electrical Engineering,JEE,OBC,301,308,310,310,50
+KEM Mumbai,Dental,NEET,SC,604,580,580,581,95
+NIT Surathkal,Chemical Engineering,JEE,SC,253,241,242,244,80
+CMC Vellore,Dental,NEET,ST,656,613,615,618,95
+BITS Pilani,Mechanical Engineering,JEE,EWS,239,217,220,223,95
+JIPMER Puducherry,MBBS,NEET,EWS,637,632,632,632,80
+IIT Delhi,Mechanical Engineering,JEE,SC,353,331,333,335,95
+NIT Surathkal,Electronics and Communication Engineering,JEE,OBC,251,254,257,258,50
+JIPMER Puducherry,Dental,NEET,EWS,552,533,533,533,95
+DU Delhi,BSc,CUET,OBC,294,282,284,286,80
+DU Delhi,BCA,CUET,ST,245,237,240,243,70
+VIT Vellore,Computer Science and Engineering,JEE,OBC,318,312,313,313,80
+St. Xavier Kolkata,BSc,CUET,ST,272,242,244,244,95
+KEM Mumbai,MBBS,NEET,OBC,721,694,697,698,95
+IIT Bombay,Electronics and Communication Engineering,JEE,GEN,196,218,219,221,50
+DU Delhi,BCA,CUET,SC,280,269,272,274,80
+MIT Pune,Mechanical Engineering,JEE,OBC,259,262,265,265,50
+Lady Shri Ram College Delhi,BBA,CUET,GEN,297,288,291,293,70
+KEM Mumbai,Ayurvedic,NEET,ST,664,625,625,627,95
+AIIMS Delhi,Dental,NEET,SC,596,603,606,607,50
+CMC Vellore,Physiotherapy,NEET,GEN,494,526,526,527,50
+St. Xavier Kolkata,BCA,CUET,OBC,311,322,323,323,50
+CMC Vellore,MBBS,NEET,SC,561,526,528,531,95
+NIT Surathkal,Information Technology,JEE,ST,259,258,258,258,70
+St. Xavier Kolkata,BSc,CUET,OBC,330,346,349,351,50
+St. Xavier Kolkata,BSc,CUET,SC,244,245,248,249,50
+Lady Shri Ram College Delhi,BSc,CUET,EWS,292,289,291,294,50
+IIT Delhi,Chemical Engineering,JEE,OBC,294,269,272,274,95
+Lady Shri Ram College Delhi,BBA,CUET,ST,323,312,312,313,90
+KEM Mumbai,Physiotherapy,NEET,GEN,689,667,668,670,95
+Christ University Bengaluru,BCA,CUET,ST,251,253,256,257,50
+MIT Pune,Chemical Engineering,JEE,OBC,227,218,220,223,70
+BITS Pilani,Chemical Engineering,JEE,SC,248,226,228,230,95
+BITS Pilani,Mechanical Engineering,JEE,GEN,283,267,269,272,90
+BITS Pilani,Mechanical Engineering,JEE,ST,316,291,293,295,95
+NIT Surathkal,Mechanical Engineering,JEE,EWS,330,334,334,336,50
+CMC Vellore,Ayurvedic,NEET,ST,559,538,539,541,95
+St. Xavier Kolkata,BBA,CUET,EWS,331,344,347,350,50
+KEM Mumbai,MBBS,NEET,SC,551,522,524,526,95
+St. Xavier Kolkata,BSc,CUET,OBC,322,305,307,309,90
+DU Delhi,BSc,CUET,GEN,336,326,328,330,80
+VIT Vellore,Chemical Engineering,JEE,OBC,245,237,240,243,70
+DU Delhi,BBA,CUET,OBC,299,303,306,306,50
+CMC Vellore,MBBS,NEET,GEN,580,578,581,582,50
+VIT Vellore,Civil Engineering,JEE,EWS,248,260,262,262,50
+NIT Surathkal,Civil Engineering,JEE,SC,314,292,293,293,95
+CMC Vellore,Physiotherapy,NEET,ST,510,489,489,490,95
+Lady Shri Ram College Delhi,BBA,CUET,EWS,262,254,254,256,80
+NIT Trichy,Civil Engineering,JEE,SC,224,219,222,225,50
+Christ University Bengaluru,BBA,CUET,EWS,280,264,265,267,90
+IIT Delhi,Civil Engineering,JEE,GEN,296,281,283,284,90
+DU Delhi,BBA,CUET,EWS,275,252,252,254,95
+JIPMER Puducherry,Dental,NEET,EWS,678,669,670,670,80
+CMC Vellore,Ayurvedic,NEET,ST,635,602,604,604,95
+AIIMS Delhi,Ayurvedic,NEET,SC,600,615,615,615,50
+AIIMS Delhi,Physiotherapy,NEET,GEN,524,519,519,519,80
+IIIT Hyderabad,Chemical Engineering,JEE,OBC,228,219,221,221,80
+DU Delhi,BBA,CUET,OBC,327,341,341,342,50
+PGIMER Chandigarh,Physiotherapy,NEET,GEN,585,575,578,581,70
+Christ University Bengaluru,BCA,CUET,ST,305,302,302,304,70
+DU Delhi,BBA,CUET,SC,309,307,310,313,50
+DU Delhi,BBA,CUET,ST,342,321,324,325,95
+AIIMS Delhi,MBBS,NEET,OBC,543,539,539,542,70
+IIT Bombay,Mechanical Engineering,JEE,OBC,318,332,335,336,50
+KEM Mumbai,Dental,NEET,OBC,609,577,579,581,95
+Lady Shri Ram College Delhi,BBA,CUET,ST,284,282,284,286,50
+MIT Pune,Mechanical Engineering,JEE,ST,275,268,271,273,70
+IIIT Hyderabad,Chemical Engineering,JEE,EWS,216,203,205,207,80
+Christ University Bengaluru,BBA,CUET,GEN,275,269,272,274,70
+NIT Trichy,Civil Engineering,JEE,EWS,289,274,275,275,90
+NIT Trichy,Electronics and Communication Engineering,JEE,OBC,224,216,218,220,70
+JIPMER Puducherry,MBBS,NEET,SC,686,682,684,685,70
+NIT Surathkal,Electronics and Communication Engineering,JEE,SC,234,222,223,225,80
+PGIMER Chandigarh,MBBS,NEET,GEN,500,505,505,508,50
+CMC Vellore,Dental,NEET,ST,709,676,678,681,95
+Lady Shri Ram College Delhi,BCA,CUET,SC,246,248,251,253,50
+IIIT Hyderabad,Chemical Engineering,JEE,ST,266,262,263,265,70
+Christ University Bengaluru,BBA,CUET,OBC,286,279,280,282,70
+BITS Pilani,Mechanical Engineering,JEE,ST,226,195,197,197,95
+CMC Vellore,Physiotherapy,NEET,SC,597,571,573,576,95
+NIT Surathkal,Electronics and Communication Engineering,JEE,GEN,273,258,259,262,90
+AIIMS Delhi,Physiotherapy,NEET,OBC,584,586,587,590,50
+NIT Surathkal,Electronics and Communication Engineering,JEE,EWS,313,323,326,326,50
+AIIMS Delhi,Dental,NEET,GEN,592,574,576,576,95
+CMC Vellore,Physiotherapy,NEET,GEN,580,568,570,571,80
+JIPMER Puducherry,Ayurvedic,NEET,ST,539,514,516,519,95
+NIT Surathkal,Electronics and Communication Engineering,JEE,SC,326,326,326,327,50
+NIT Surathkal,Computer Science and Engineering,JEE,GEN,213,215,217,217,50
+NIT Surathkal,Computer Science and Engineering,JEE,GEN,253,258,261,264,50
+CMC Vellore,MBBS,NEET,GEN,565,580,582,584,50
+JIPMER Puducherry,Physiotherapy,NEET,SC,649,607,607,610,95
+Lady Shri Ram College Delhi,BCA,CUET,OBC,333,339,341,344,50
+PGIMER Chandigarh,MBBS,NEET,ST,593,572,572,575,95
+IIIT Hyderabad,Information Technology,JEE,EWS,293,268,269,270,95
+St. Xavier Kolkata,BSc,CUET,GEN,286,293,295,298,50
+PGIMER Chandigarh,MBBS,NEET,EWS,496,511,511,514,50
+Christ University Bengaluru,BCA,CUET,SC,271,274,277,280,50
+Lady Shri Ram College Delhi,BCA,CUET,ST,313,283,284,287,95
+AIIMS Delhi,Physiotherapy,NEET,OBC,677,677,680,682,50
+VIT Vellore,Civil Engineering,JEE,OBC,308,324,324,327,50
+NIT Surathkal,Electrical Engineering,JEE,SC,211,189,190,190,95
+PGIMER Chandigarh,MBBS,NEET,OBC,523,532,532,535,50
+DU Delhi,BSc,CUET,ST,316,304,306,308,80
+IIIT Hyderabad,Civil Engineering,JEE,SC,212,187,189,192,95
+IIT Bombay,Mechanical Engineering,JEE,GEN,282,267,267,270,90
+MIT Pune,Electronics and Communication Engineering,JEE,SC,323,316,318,318,80
+MIT Pune,Information Technology,JEE,OBC,242,229,229,229,90
+IIIT Hyderabad,Civil Engineering,JEE,EWS,223,224,227,228,50
+AIIMS Delhi,Dental,NEET,ST,592,578,581,581,90
+NIT Trichy,Electronics and Communication Engineering,JEE,OBC,287,264,267,268,95
+Lady Shri Ram College Delhi,BCA,CUET,ST,255,238,240,243,90
+MIT Pune,Chemical Engineering,JEE,EWS,331,321,323,325,80
+St. Xavier Kolkata,BCA,CUET,GEN,290,304,306,306,50
+IIT Bombay,Mechanical Engineering,JEE,GEN,279,279,282,282,50
+NIT Surathkal,Electrical Engineering,JEE,ST,322,288,289,289,95
+IIIT Hyderabad,Electrical Engineering,JEE,OBC,217,204,206,207,90
+DU Delhi,BSc,CUET,EWS,300,311,312,314,50
+Lady Shri Ram College Delhi,BCA,CUET,ST,318,318,321,323,50
+KEM Mumbai,Ayurvedic,NEET,GEN,688,682,683,686,70
+St. Xavier Kolkata,BSc,CUET,SC,349,322,322,322,95
+DU Delhi,BSc,CUET,EWS,262,259,260,260,70
+PGIMER Chandigarh,Physiotherapy,NEET,OBC,692,684,686,689,70
+DU Delhi,BBA,CUET,SC,287,285,286,287,70
+VIT Vellore,Chemical Engineering,JEE,OBC,314,314,316,316,50
+Christ University Bengaluru,BCA,CUET,GEN,275,273,273,273,70
+DU Delhi,BSc,CUET,EWS,350,343,345,347,70
+KEM Mumbai,Physiotherapy,NEET,SC,594,586,588,589,80
+DU Delhi,BBA,CUET,EWS,342,318,320,320,95
+VIT Vellore,Mechanical Engineering,JEE,EWS,227,237,240,241,50
+St. Xavier Kolkata,BSc,CUET,GEN,310,293,295,296,90
+JIPMER Puducherry,Physiotherapy,NEET,ST,673,665,667,669,70
+DU Delhi,BBA,CUET,GEN,336,344,344,347,50
+PGIMER Chandigarh,Dental,NEET,ST,493,482,484,486,80
+St. Xavier Kolkata,BBA,CUET,EWS,335,320,323,323,90
+DU Delhi,BSc,CUET,SC,299,268,271,274,95
+Lady Shri Ram College Delhi,BCA,CUET,OBC,369,347,347,347,95
+St. Xavier Kolkata,BCA,CUET,SC,335,312,313,314,95
+PGIMER Chandigarh,Ayurvedic,NEET,ST,557,532,533,533,95
+KEM Mumbai,Dental,NEET,GEN,567,589,589,591,50
+Lady Shri Ram College Delhi,BCA,CUET,EWS,287,282,285,286,70
+DU Delhi,BBA,CUET,OBC,309,326,327,330,50
+KEM Mumbai,MBBS,NEET,OBC,518,513,514,516,70
+NIT Trichy,Electronics and Communication Engineering,JEE,OBC,227,236,239,240,50
+DU Delhi,BSc,CUET,SC,327,313,314,314,90
+VIT Vellore,Computer Science and Engineering,JEE,EWS,218,224,224,226,50
+AIIMS Delhi,Physiotherapy,NEET,EWS,631,634,636,639,50
+NIT Trichy,Electronics and Communication Engineering,JEE,OBC,235,217,219,222,90
+Lady Shri Ram College Delhi,BSc,CUET,GEN,284,282,284,287,50
+DU Delhi,BSc,CUET,GEN,273,285,287,288,50
+JIPMER Puducherry,Ayurvedic,NEET,EWS,691,671,673,676,95
+MIT Pune,Civil Engineering,JEE,OBC,272,264,267,268,70
+BITS Pilani,Electronics and Communication Engineering,JEE,EWS,250,231,234,237,90
+NIT Trichy,Civil Engineering,JEE,OBC,331,316,318,321,90
+NIT Trichy,Civil Engineering,JEE,EWS,229,246,246,246,50
+AIIMS Delhi,Dental,NEET,OBC,544,529,529,530,90
+KEM Mumbai,Ayurvedic,NEET,ST,685,682,685,685,70
+KEM Mumbai,Physiotherapy,NEET,GEN,567,575,578,581,50
+Lady Shri Ram College Delhi,BSc,CUET,EWS,306,306,309,309,50
+KEM Mumbai,Physiotherapy,NEET,SC,514,506,508,511,70
+CMC Vellore,Ayurvedic,NEET,ST,581,539,541,541,95
+IIT Bombay,Mechanical Engineering,JEE,GEN,352,339,341,343,80
+Lady Shri Ram College Delhi,BBA,CUET,OBC,317,299,299,299,95
+JIPMER Puducherry,Dental,NEET,EWS,547,562,563,563,50
+BITS Pilani,Electrical Engineering,JEE,SC,365,332,335,337,95
+AIIMS Delhi,Physiotherapy,NEET,SC,496,509,511,513,50
+CMC Vellore,Dental,NEET,EWS,543,510,512,514,95
+DU Delhi,BSc,CUET,OBC,316,298,300,301,95
+DU Delhi,BBA,CUET,SC,247,239,239,241,80
+Lady Shri Ram College Delhi,BSc,CUET,GEN,305,311,312,314,50
+Lady Shri Ram College Delhi,BBA,CUET,ST,292,264,265,268,95
+VIT Vellore,Computer Science and Engineering,JEE,GEN,281,275,275,277,70
+St. Xavier Kolkata,BBA,CUET,ST,297,275,278,280,95
+St. Xavier Kolkata,BCA,CUET,ST,314,281,284,286,95
+PGIMER Chandigarh,MBBS,NEET,SC,646,613,613,613,95
+AIIMS Delhi,MBBS,NEET,SC,706,669,670,671,95
+Christ University Bengaluru,BBA,CUET,GEN,242,263,266,267,50
+IIIT Hyderabad,Mechanical Engineering,JEE,GEN,228,221,223,226,70
+Lady Shri Ram College Delhi,BBA,CUET,GEN,265,250,250,252,90
+St. Xavier Kolkata,BBA,CUET,EWS,288,302,305,308,50
+DU Delhi,BCA,CUET,ST,262,257,260,260,70
+IIIT Hyderabad,Chemical Engineering,JEE,OBC,255,235,237,237,95
+IIT Delhi,Electronics and Communication Engineering,JEE,ST,248,226,226,229,95
+DU Delhi,BBA,CUET,ST,319,306,308,309,90
+NIT Trichy,Information Technology,JEE,OBC,322,320,322,322,70
+MIT Pune,Mechanical Engineering,JEE,GEN,347,339,340,341,80
+Christ University Bengaluru,BBA,CUET,GEN,296,288,288,291,80
+Lady Shri Ram College Delhi,BCA,CUET,GEN,274,279,280,283,50
+JIPMER Puducherry,Ayurvedic,NEET,OBC,488,510,513,516,50
+Lady Shri Ram College Delhi,BBA,CUET,OBC,240,256,259,259,50
+Lady Shri Ram College Delhi,BSc,CUET,ST,266,264,266,267,50
+PGIMER Chandigarh,Dental,NEET,SC,507,517,520,522,50
+Christ University Bengaluru,BSc,CUET,EWS,270,250,250,250,95
+BITS Pilani,Chemical Engineering,JEE,GEN,253,239,242,243,90
+Lady Shri Ram College Delhi,BCA,CUET,OBC,322,317,318,319,70
+IIT Delhi,Chemical Engineering,JEE,SC,214,204,204,204,90
+PGIMER Chandigarh,Ayurvedic,NEET,GEN,574,557,559,560,90
+NIT Trichy,Chemical Engineering,JEE,EWS,222,235,236,237,50
+NIT Surathkal,Chemical Engineering,JEE,OBC,263,254,255,257,80
+PGIMER Chandigarh,Physiotherapy,NEET,ST,604,584,587,589,95
+IIIT Hyderabad,Electronics and Communication Engineering,JEE,SC,236,227,229,230,80
+Lady Shri Ram College Delhi,BCA,CUET,SC,289,295,297,297,50
+IIT Delhi,Mechanical Engineering,JEE,GEN,281,301,302,303,50
+AIIMS Delhi,Ayurvedic,NEET,ST,658,623,624,626,95
+NIT Surathkal,Civil Engineering,JEE,SC,217,210,212,215,70
+St. Xavier Kolkata,BSc,CUET,EWS,277,286,287,290,50
+DU Delhi,BBA,CUET,EWS,267,280,283,283,50
+St. Xavier Kolkata,BBA,CUET,SC,251,256,259,259,50
+KEM Mumbai,Ayurvedic,NEET,OBC,537,560,561,564,50
+Lady Shri Ram College Delhi,BBA,CUET,ST,257,233,233,233,95
+VIT Vellore,Electrical Engineering,JEE,GEN,260,243,243,243,95
+Lady Shri Ram College Delhi,BSc,CUET,GEN,329,324,326,326,70
+JIPMER Puducherry,Ayurvedic,NEET,SC,498,510,510,510,50
+DU Delhi,BCA,CUET,GEN,290,287,289,289,70
+NIT Surathkal,Chemical Engineering,JEE,GEN,331,326,329,332,50
+NIT Surathkal,Civil Engineering,JEE,ST,339,301,301,304,95
+Christ University Bengaluru,BBA,CUET,OBC,279,256,257,260,95
+Christ University Bengaluru,BBA,CUET,OBC,333,308,311,311,95
+KEM Mumbai,MBBS,NEET,EWS,654,624,624,624,95
+IIIT Hyderabad,Electrical Engineering,JEE,SC,256,233,233,233,95
+St. Xavier Kolkata,BBA,CUET,EWS,296,293,293,294,70
+NIT Trichy,Chemical Engineering,JEE,SC,282,265,266,269,90
+AIIMS Delhi,Physiotherapy,NEET,GEN,503,504,505,507,50
+PGIMER Chandigarh,MBBS,NEET,OBC,638,630,630,631,80
+NIT Surathkal,Chemical Engineering,JEE,SC,268,269,269,271,50
+AIIMS Delhi,Physiotherapy,NEET,SC,669,651,653,655,90
+BITS Pilani,Civil Engineering,JEE,ST,290,275,278,279,90
+DU Delhi,BCA,CUET,EWS,320,296,298,299,95
+AIIMS Delhi,Ayurvedic,NEET,OBC,683,651,651,651,95
+PGIMER Chandigarh,MBBS,NEET,OBC,592,616,619,619,50
+KEM Mumbai,MBBS,NEET,OBC,657,673,674,676,50
+JIPMER Puducherry,Physiotherapy,NEET,EWS,631,623,624,627,70
+NIT Trichy,Electrical Engineering,JEE,EWS,288,282,283,285,70
+St. Xavier Kolkata,BSc,CUET,OBC,271,279,280,281,50
+DU Delhi,BCA,CUET,ST,311,302,303,304,80
+JIPMER Puducherry,Ayurvedic,NEET,OBC,553,574,576,578,50
+IIIT Hyderabad,Computer Science and Engineering,JEE,ST,235,206,209,212,95
+IIT Delhi,Civil Engineering,JEE,GEN,214,221,221,221,50
+NIT Surathkal,Computer Science and Engineering,JEE,EWS,245,231,231,231,90
+JIPMER Puducherry,Physiotherapy,NEET,ST,620,606,609,609,90
+St. Xavier Kolkata,BCA,CUET,ST,340,330,330,332,80
+DU Delhi,BCA,CUET,EWS,349,339,341,342,80
+CMC Vellore,MBBS,NEET,EWS,647,666,667,670,50
+CMC Vellore,MBBS,NEET,SC,597,586,589,590,80
+AIIMS Delhi,Physiotherapy,NEET,ST,568,577,578,578,50
+St. Xavier Kolkata,BSc,CUET,ST,340,317,317,318,95
+Lady Shri Ram College Delhi,BSc,CUET,ST,271,234,237,239,95
+JIPMER Puducherry,Physiotherapy,NEET,SC,488,489,492,495,50
+DU Delhi,BCA,CUET,EWS,275,261,263,266,80
+IIT Delhi,Electrical Engineering,JEE,OBC,277,278,279,281,50
+KEM Mumbai,Dental,NEET,EWS,573,590,591,591,50
+VIT Vellore,Electronics and Communication Engineering,JEE,OBC,228,225,227,227,70
+BITS Pilani,Information Technology,JEE,ST,255,228,229,229,95
+DU Delhi,BSc,CUET,OBC,297,297,298,301,50
+AIIMS Delhi,MBBS,NEET,SC,568,529,532,532,95
+Christ University Bengaluru,BBA,CUET,GEN,315,299,299,300,95
+IIIT Hyderabad,Electronics and Communication Engineering,JEE,EWS,191,204,205,206,50
+Lady Shri Ram College Delhi,BCA,CUET,SC,261,260,261,264,50
+CMC Vellore,MBBS,NEET,OBC,556,523,526,527,95
+CMC Vellore,Physiotherapy,NEET,GEN,569,593,595,598,50
+Lady Shri Ram College Delhi,BSc,CUET,ST,355,326,328,330,95
+Lady Shri Ram College Delhi,BCA,CUET,OBC,312,316,318,321,50
+AIIMS Delhi,Physiotherapy,NEET,SC,713,676,676,677,95
+NIT Trichy,Chemical Engineering,JEE,OBC,272,261,263,265,80
+Christ University Bengaluru,BSc,CUET,SC,330,320,322,322,80
+IIT Delhi,Information Technology,JEE,EWS,199,203,203,204,50
+KEM Mumbai,Ayurvedic,NEET,ST,651,647,649,652,50
+CMC Vellore,MBBS,NEET,GEN,564,587,589,592,50
+IIIT Hyderabad,Civil Engineering,JEE,OBC,242,223,224,224,95
+MIT Pune,Electrical Engineering,JEE,OBC,217,213,213,215,70
+IIIT Hyderabad,Computer Science and Engineering,JEE,GEN,219,225,228,228,50
+AIIMS Delhi,Ayurvedic,NEET,SC,540,517,520,523,95
+Christ University Bengaluru,BSc,CUET,ST,290,288,291,291,50
+AIIMS Delhi,Ayurvedic,NEET,EWS,503,500,501,503,70
+BITS Pilani,Electrical Engineering,JEE,ST,237,229,229,230,80
+Lady Shri Ram College Delhi,BCA,CUET,OBC,342,325,326,327,95
+CMC Vellore,MBBS,NEET,EWS,502,501,501,502,70
+NIT Surathkal,Mechanical Engineering,JEE,EWS,351,332,333,334,95
+IIT Bombay,Information Technology,JEE,ST,274,266,266,269,80
+AIIMS Delhi,Physiotherapy,NEET,GEN,684,691,694,696,50
+Christ University Bengaluru,BBA,CUET,SC,335,317,320,321,90
+CMC Vellore,Physiotherapy,NEET,OBC,652,635,638,641,90
+Christ University Bengaluru,BBA,CUET,GEN,276,281,282,284,50
+AIIMS Delhi,Ayurvedic,NEET,OBC,715,695,695,697,95
+KEM Mumbai,Dental,NEET,SC,528,491,491,494,95
+JIPMER Puducherry,MBBS,NEET,EWS,556,540,541,541,95
+IIT Delhi,Electrical Engineering,JEE,OBC,205,198,200,202,70
+Christ University Bengaluru,BSc,CUET,ST,336,314,317,317,95
+St. Xavier Kolkata,BCA,CUET,EWS,287,279,281,283,70
+PGIMER Chandigarh,Ayurvedic,NEET,OBC,534,525,525,526,80
+CMC Vellore,MBBS,NEET,SC,597,559,559,560,95
+AIIMS Delhi,MBBS,NEET,EWS,716,685,688,690,95
+DU Delhi,BBA,CUET,EWS,341,323,326,326,95
+AIIMS Delhi,MBBS,NEET,ST,548,558,561,562,50
+IIIT Hyderabad,Electronics and Communication Engineering,JEE,GEN,240,257,258,261,50
+AIIMS Delhi,Dental,NEET,GEN,537,559,560,561,50
+KEM Mumbai,Dental,NEET,ST,563,537,539,541,95
+CMC Vellore,MBBS,NEET,EWS,617,587,587,590,95
+CMC Vellore,MBBS,NEET,ST,685,652,655,657,95
+Christ University Bengaluru,BCA,CUET,ST,249,238,238,239,90
+Christ University Bengaluru,BCA,CUET,OBC,265,270,270,271,50
+PGIMER Chandigarh,Physiotherapy,NEET,GEN,575,586,589,592,50
+PGIMER Chandigarh,Physiotherapy,NEET,SC,609,576,577,578,95
+MIT Pune,Chemical Engineering,JEE,EWS,295,305,307,310,50
+Christ University Bengaluru,BSc,CUET,EWS,326,322,322,323,70
+CMC Vellore,Ayurvedic,NEET,EWS,500,511,514,516,50
+CMC Vellore,Ayurvedic,NEET,ST,591,559,562,565,95
+KEM Mumbai,Dental,NEET,OBC,508,517,520,523,50
+Lady Shri Ram College Delhi,BSc,CUET,ST,323,309,311,312,90
+AIIMS Delhi,Dental,NEET,SC,548,506,509,509,95
+PGIMER Chandigarh,MBBS,NEET,GEN,571,551,551,551,95
+DU Delhi,BCA,CUET,GEN,243,255,255,256,50
+St. Xavier Kolkata,BCA,CUET,SC,289,284,284,286,70
+MIT Pune,Information Technology,JEE,EWS,224,230,231,231,50
+MIT Pune,Information Technology,JEE,OBC,351,344,344,345,80
+VIT Vellore,Information Technology,JEE,OBC,277,263,263,266,90
+BITS Pilani,Information Technology,JEE,OBC,252,235,237,237,95
+IIT Delhi,Electronics and Communication Engineering,JEE,EWS,337,320,322,323,90
+NIT Trichy,Information Technology,JEE,OBC,355,344,344,346,80
+St. Xavier Kolkata,BBA,CUET,SC,260,267,267,270,50
+Lady Shri Ram College Delhi,BSc,CUET,SC,319,302,304,307,90
+BITS Pilani,Electrical Engineering,JEE,OBC,256,231,234,235,95
+NIT Trichy,Computer Science and Engineering,JEE,ST,266,234,236,237,95
+JIPMER Puducherry,Physiotherapy,NEET,EWS,558,533,533,534,95
+IIT Delhi,Information Technology,JEE,SC,201,195,197,200,70
+DU Delhi,BSc,CUET,GEN,336,346,347,348,50
+IIT Delhi,Electrical Engineering,JEE,GEN,257,238,240,240,95
+DU Delhi,BCA,CUET,SC,317,290,292,293,95
+DU Delhi,BBA,CUET,OBC,305,292,295,295,90
+KEM Mumbai,Dental,NEET,SC,509,493,495,497,90
+DU Delhi,BSc,CUET,GEN,306,320,322,324,50
+DU Delhi,BBA,CUET,EWS,303,284,285,288,95
+VIT Vellore,Mechanical Engineering,JEE,ST,291,259,262,265,95
+AIIMS Delhi,MBBS,NEET,ST,502,484,485,487,95
+KEM Mumbai,Ayurvedic,NEET,ST,606,581,583,585,95
+AIIMS Delhi,Physiotherapy,NEET,SC,571,536,536,536,95
+MIT Pune,Computer Science and Engineering,JEE,OBC,299,302,304,307,50
+St. Xavier Kolkata,BSc,CUET,SC,321,286,286,288,95
+NIT Trichy,Electronics and Communication Engineering,JEE,SC,225,206,208,208,95
+MIT Pune,Computer Science and Engineering,JEE,GEN,341,333,333,335,80
+JIPMER Puducherry,Physiotherapy,NEET,GEN,518,520,523,523,50
+Lady Shri Ram College Delhi,BCA,CUET,OBC,241,250,251,253,50
+MIT Pune,Chemical Engineering,JEE,ST,256,225,226,229,95
+DU Delhi,BSc,CUET,OBC,311,327,328,328,50
+St. Xavier Kolkata,BCA,CUET,EWS,328,307,309,311,95
+CMC Vellore,Ayurvedic,NEET,ST,520,492,495,496,95
+BITS Pilani,Electrical Engineering,JEE,SC,219,226,227,228,50
+Lady Shri Ram College Delhi,BBA,CUET,OBC,287,280,282,285,70
+IIT Delhi,Mechanical Engineering,JEE,EWS,327,315,317,317,90
+MIT Pune,Electronics and Communication Engineering,JEE,SC,302,302,302,303,50
+KEM Mumbai,Physiotherapy,NEET,OBC,500,515,518,521,50
+PGIMER Chandigarh,Physiotherapy,NEET,GEN,605,624,625,628,50
+St. Xavier Kolkata,BBA,CUET,OBC,311,320,322,322,50
+IIT Bombay,Mechanical Engineering,JEE,GEN,334,332,335,338,50
+Christ University Bengaluru,BCA,CUET,OBC,311,295,296,296,95
+CMC Vellore,Physiotherapy,NEET,GEN,682,663,666,666,95
+BITS Pilani,Computer Science and Engineering,JEE,EWS,217,205,208,210,80
+NIT Surathkal,Civil Engineering,JEE,ST,346,332,332,335,90
+Lady Shri Ram College Delhi,BBA,CUET,ST,286,288,288,291,50
+Christ University Bengaluru,BSc,CUET,SC,336,312,315,316,95
+KEM Mumbai,Dental,NEET,SC,563,567,568,568,50
+NIT Trichy,Electrical Engineering,JEE,EWS,328,304,306,307,95
+St. Xavier Kolkata,BSc,CUET,OBC,264,277,278,280,50
+AIIMS Delhi,Ayurvedic,NEET,GEN,536,555,555,557,50
+AIIMS Delhi,MBBS,NEET,OBC,509,524,527,528,50
+IIIT Hyderabad,Information Technology,JEE,EWS,361,346,348,348,90
+DU Delhi,BCA,CUET,OBC,296,292,295,296,70
+CMC Vellore,Physiotherapy,NEET,GEN,502,507,509,510,50
+Christ University Bengaluru,BCA,CUET,EWS,308,292,293,295,90
+AIIMS Delhi,MBBS,NEET,SC,615,603,605,608,80
+VIT Vellore,Electronics and Communication Engineering,JEE,ST,244,245,246,248,50
+JIPMER Puducherry,Physiotherapy,NEET,SC,555,535,535,538,95
+NIT Trichy,Electronics and Communication Engineering,JEE,ST,233,222,223,224,80
+PGIMER Chandigarh,MBBS,NEET,SC,528,526,528,528,70
+NIT Trichy,Electronics and Communication Engineering,JEE,OBC,233,242,243,244,50
+DU Delhi,BSc,CUET,EWS,348,331,332,334,90
+IIT Delhi,Computer Science and Engineering,JEE,EWS,302,302,303,303,50
+IIT Bombay,Chemical Engineering,JEE,EWS,240,240,240,243,50
+Christ University Bengaluru,BSc,CUET,SC,274,244,245,247,95
+IIT Bombay,Chemical Engineering,JEE,EWS,242,255,258,258,50
+DU Delhi,BBA,CUET,OBC,260,249,252,252,80
+St. Xavier Kolkata,BCA,CUET,GEN,344,337,337,339,80
+BITS Pilani,Information Technology,JEE,SC,365,337,339,341,95
+NIT Surathkal,Computer Science and Engineering,JEE,ST,237,233,236,237,70
+PGIMER Chandigarh,Physiotherapy,NEET,OBC,704,678,679,682,95
+VIT Vellore,Chemical Engineering,JEE,GEN,260,267,270,273,50
+VIT Vellore,Chemical Engineering,JEE,SC,330,324,327,330,70
+BITS Pilani,Electrical Engineering,JEE,SC,259,245,246,247,90
+AIIMS Delhi,Physiotherapy,NEET,EWS,595,570,570,570,95
+NIT Surathkal,Information Technology,JEE,ST,257,237,240,242,95
+MIT Pune,Computer Science and Engineering,JEE,GEN,237,256,256,258,50
+DU Delhi,BBA,CUET,ST,281,273,275,277,70
+AIIMS Delhi,Ayurvedic,NEET,EWS,624,597,600,602,95
+DU Delhi,BCA,CUET,EWS,323,305,308,308,95
+NIT Trichy,Civil Engineering,JEE,SC,351,334,335,337,90
+VIT Vellore,Computer Science and Engineering,JEE,OBC,350,346,348,349,70
+Lady Shri Ram College Delhi,BSc,CUET,EWS,279,284,285,286,50
+PGIMER Chandigarh,Physiotherapy,NEET,SC,691,655,655,656,95
+CMC Vellore,MBBS,NEET,EWS,608,592,594,597,90
+MIT Pune,Information Technology,JEE,OBC,290,285,286,289,70
+PGIMER Chandigarh,Ayurvedic,NEET,GEN,560,569,571,574,50
+NIT Surathkal,Electronics and Communication Engineering,JEE,EWS,328,343,344,345,50
+IIIT Hyderabad,Information Technology,JEE,EWS,342,322,324,327,95
+KEM Mumbai,Dental,NEET,OBC,637,656,657,659,50
+IIT Bombay,Electrical Engineering,JEE,SC,336,325,325,328,80
+St. Xavier Kolkata,BCA,CUET,ST,267,236,236,238,95
+MIT Pune,Civil Engineering,JEE,GEN,316,299,300,302,90
+IIIT Hyderabad,Electrical Engineering,JEE,GEN,355,340,340,342,90
+IIT Bombay,Chemical Engineering,JEE,GEN,313,327,330,330,50
+IIT Delhi,Civil Engineering,JEE,GEN,238,223,226,227,90
+VIT Vellore,Mechanical Engineering,JEE,SC,241,239,239,239,70
+Christ University Bengaluru,BCA,CUET,SC,331,327,327,329,70
+Christ University Bengaluru,BCA,CUET,EWS,278,291,293,293,50
+IIT Delhi,Information Technology,JEE,OBC,284,283,284,286,50
+NIT Surathkal,Information Technology,JEE,SC,254,236,237,240,90
+PGIMER Chandigarh,Dental,NEET,OBC,617,629,629,630,50
+IIT Delhi,Information Technology,JEE,OBC,293,292,293,296,50
+BITS Pilani,Electronics and Communication Engineering,JEE,SC,289,297,297,298,50
+AIIMS Delhi,Dental,NEET,EWS,530,544,546,549,50
+AIIMS Delhi,MBBS,NEET,OBC,533,549,552,555,50
+KEM Mumbai,Ayurvedic,NEET,SC,521,518,520,521,70
+MIT Pune,Chemical Engineering,JEE,SC,241,226,229,231,90
+NIT Surathkal,Electronics and Communication Engineering,JEE,OBC,367,342,343,344,95
+Christ University Bengaluru,BSc,CUET,OBC,320,304,305,308,90
+JIPMER Puducherry,Dental,NEET,ST,583,582,585,586,50
+MIT Pune,Information Technology,JEE,OBC,266,262,263,264,70
+Lady Shri Ram College Delhi,BBA,CUET,ST,308,308,308,309,50
+Christ University Bengaluru,BBA,CUET,EWS,312,320,322,323,50
+KEM Mumbai,Dental,NEET,SC,616,623,624,624,50
+DU Delhi,BCA,CUET,EWS,315,307,309,310,80
+CMC Vellore,MBBS,NEET,GEN,575,557,559,560,95
+Lady Shri Ram College Delhi,BBA,CUET,SC,330,320,321,324,80
+CMC Vellore,Dental,NEET,SC,684,658,658,661,95
+IIT Bombay,Information Technology,JEE,SC,311,279,280,280,95
+KEM Mumbai,Ayurvedic,NEET,GEN,655,658,661,664,50
+DU Delhi,BSc,CUET,OBC,268,266,269,270,50
+AIIMS Delhi,Dental,NEET,EWS,480,501,503,505,50
+Lady Shri Ram College Delhi,BSc,CUET,OBC,299,313,315,318,50
+Lady Shri Ram College Delhi,BSc,CUET,OBC,342,326,327,330,90
+Christ University Bengaluru,BBA,CUET,ST,333,306,308,311,95
+NIT Surathkal,Chemical Engineering,JEE,EWS,249,250,250,252,50
+AIIMS Delhi,Ayurvedic,NEET,ST,552,527,527,529,95
+JIPMER Puducherry,Physiotherapy,NEET,SC,656,634,634,637,95
+Christ University Bengaluru,BCA,CUET,GEN,316,304,306,306,90
+Christ University Bengaluru,BBA,CUET,OBC,241,255,255,257,50
+JIPMER Puducherry,Physiotherapy,NEET,SC,532,523,523,524,80
+KEM Mumbai,Physiotherapy,NEET,OBC,665,659,659,662,70
+MIT Pune,Electronics and Communication Engineering,JEE,EWS,234,213,213,215,95
+DU Delhi,BBA,CUET,ST,313,288,291,294,95
+JIPMER Puducherry,Dental,NEET,ST,570,552,553,553,95
+IIIT Hyderabad,Information Technology,JEE,OBC,258,274,277,279,50
+JIPMER Puducherry,MBBS,NEET,ST,594,581,584,587,80
+BITS Pilani,Chemical Engineering,JEE,SC,207,193,194,195,90
+Lady Shri Ram College Delhi,BSc,CUET,EWS,330,343,344,344,50
+NIT Surathkal,Civil Engineering,JEE,EWS,330,329,329,332,50
+St. Xavier Kolkata,BSc,CUET,EWS,323,311,311,313,90
+NIT Surathkal,Information Technology,JEE,SC,354,319,320,322,95
+MIT Pune,Chemical Engineering,JEE,OBC,323,330,330,332,50
+CMC Vellore,MBBS,NEET,GEN,605,592,594,594,90
+IIT Delhi,Chemical Engineering,JEE,SC,273,242,244,246,95
+DU Delhi,BCA,CUET,ST,271,268,268,269,70
+St. Xavier Kolkata,BBA,CUET,SC,335,312,312,312,95
+PGIMER Chandigarh,Ayurvedic,NEET,GEN,508,518,521,524,50
+PGIMER Chandigarh,Dental,NEET,EWS,548,531,532,535,90
+Christ University Bengaluru,BSc,CUET,GEN,276,265,267,268,80
+IIT Delhi,Information Technology,JEE,SC,226,220,221,224,70
+IIT Bombay,Electrical Engineering,JEE,OBC,282,266,267,270,90
+DU Delhi,BCA,CUET,SC,278,280,283,284,50
+KEM Mumbai,Physiotherapy,NEET,SC,568,586,589,591,50
+Christ University Bengaluru,BBA,CUET,EWS,273,267,268,268,80
+CMC Vellore,Ayurvedic,NEET,ST,553,524,526,527,95
+JIPMER Puducherry,Dental,NEET,EWS,539,534,535,536,70
+VIT Vellore,Electronics and Communication Engineering,JEE,ST,283,261,263,266,95
+JIPMER Puducherry,MBBS,NEET,SC,550,522,525,526,95
+NIT Surathkal,Electronics and Communication Engineering,JEE,ST,234,214,214,217,95
+Lady Shri Ram College Delhi,BCA,CUET,GEN,299,285,287,288,90
+JIPMER Puducherry,Physiotherapy,NEET,SC,703,685,686,686,95
+KEM Mumbai,Physiotherapy,NEET,OBC,616,605,605,607,80
+IIIT Hyderabad,Chemical Engineering,JEE,OBC,244,233,236,236,80
+JIPMER Puducherry,MBBS,NEET,OBC,672,645,646,649,95
+KEM Mumbai,Ayurvedic,NEET,GEN,568,562,565,565,70
+IIT Bombay,Chemical Engineering,JEE,EWS,348,329,330,331,95
+St. Xavier Kolkata,BBA,CUET,OBC,277,259,261,261,95
+Christ University Bengaluru,BSc,CUET,GEN,338,346,347,349,50
+KEM Mumbai,MBBS,NEET,ST,636,613,613,615,95
+Lady Shri Ram College Delhi,BBA,CUET,SC,276,275,277,277,50
+CMC Vellore,Physiotherapy,NEET,OBC,573,568,569,570,70
+Lady Shri Ram College Delhi,BCA,CUET,EWS,264,258,258,258,80
+CMC Vellore,MBBS,NEET,SC,671,652,654,656,95
+MIT Pune,Electrical Engineering,JEE,OBC,243,230,230,232,90
+JIPMER Puducherry,MBBS,NEET,OBC,697,695,696,698,50
+Christ University Bengaluru,BCA,CUET,SC,307,290,290,292,95
+JIPMER Puducherry,Ayurvedic,NEET,OBC,652,672,675,678,50
+BITS Pilani,Electronics and Communication Engineering,JEE,OBC,261,256,258,261,70
+JIPMER Puducherry,MBBS,NEET,SC,679,655,655,657,95
+JIPMER Puducherry,Dental,NEET,EWS,664,686,689,689,50
+KEM Mumbai,Dental,NEET,GEN,550,569,572,575,50
+JIPMER Puducherry,Physiotherapy,NEET,OBC,622,609,610,613,80
+IIT Bombay,Chemical Engineering,JEE,EWS,277,258,258,261,95
+KEM Mumbai,Dental,NEET,OBC,643,625,627,627,95
+CMC Vellore,MBBS,NEET,EWS,587,561,561,564,95
+Christ University Bengaluru,BSc,CUET,ST,315,291,291,293,95
+VIT Vellore,Electrical Engineering,JEE,ST,328,298,300,303,95
+PGIMER Chandigarh,Physiotherapy,NEET,OBC,659,627,630,630,95
+DU Delhi,BSc,CUET,SC,255,241,241,244,90
+CMC Vellore,Dental,NEET,EWS,517,538,538,538,50
+CMC Vellore,Dental,NEET,ST,627,581,584,587,95
+CMC Vellore,MBBS,NEET,EWS,545,563,564,564,50
+BITS Pilani,Mechanical Engineering,JEE,GEN,250,245,246,248,70
+CMC Vellore,MBBS,NEET,SC,598,587,589,589,80
+IIT Delhi,Information Technology,JEE,OBC,237,217,220,220,95
+Lady Shri Ram College Delhi,BCA,CUET,GEN,328,322,325,328,70
+Lady Shri Ram College Delhi,BSc,CUET,ST,309,298,300,302,80
+St. Xavier Kolkata,BSc,CUET,EWS,253,252,253,253,70
+DU Delhi,BBA,CUET,GEN,255,258,259,261,50
+Lady Shri Ram College Delhi,BSc,CUET,OBC,358,342,343,343,95
+JIPMER Puducherry,Dental,NEET,SC,665,666,666,669,50
+Christ University Bengaluru,BCA,CUET,ST,312,286,287,290,95
+JIPMER Puducherry,MBBS,NEET,ST,602,595,597,597,80
+AIIMS Delhi,Ayurvedic,NEET,ST,675,676,679,680,50
+IIT Delhi,Computer Science and Engineering,JEE,GEN,215,216,219,220,50
+PGIMER Chandigarh,MBBS,NEET,ST,559,533,536,539,95
+MIT Pune,Electrical Engineering,JEE,GEN,221,231,234,235,50
+JIPMER Puducherry,Ayurvedic,NEET,SC,623,592,592,593,95
+CMC Vellore,Ayurvedic,NEET,GEN,609,591,594,594,95
+CMC Vellore,Dental,NEET,SC,708,676,679,679,95
+St. Xavier Kolkata,BCA,CUET,EWS,289,297,298,301,50
+JIPMER Puducherry,Dental,NEET,ST,557,562,562,565,50
+IIT Delhi,Information Technology,JEE,EWS,330,323,323,326,70
+VIT Vellore,Electronics and Communication Engineering,JEE,OBC,335,340,341,344,50
+JIPMER Puducherry,Physiotherapy,NEET,SC,666,660,661,663,70
+Lady Shri Ram College Delhi,BSc,CUET,SC,350,322,324,325,95
+Lady Shri Ram College Delhi,BSc,CUET,ST,265,239,240,240,95
+St. Xavier Kolkata,BBA,CUET,OBC,275,288,289,289,50
+NIT Trichy,Chemical Engineering,JEE,OBC,328,324,326,329,50
+Lady Shri Ram College Delhi,BCA,CUET,GEN,324,332,334,335,50
+St. Xavier Kolkata,BSc,CUET,ST,270,266,267,267,70
+Christ University Bengaluru,BCA,CUET,OBC,281,268,268,269,90
+AIIMS Delhi,Physiotherapy,NEET,GEN,625,642,643,644,50
+DU Delhi,BCA,CUET,ST,290,283,284,285,80
+Christ University Bengaluru,BCA,CUET,SC,245,242,243,243,70
+PGIMER Chandigarh,Ayurvedic,NEET,OBC,531,527,530,531,70
+DU Delhi,BBA,CUET,GEN,352,339,340,340,90
+St. Xavier Kolkata,BBA,CUET,EWS,330,320,323,325,80
+IIT Delhi,Electrical Engineering,JEE,GEN,226,236,236,236,50
+NIT Surathkal,Mechanical Engineering,JEE,GEN,186,201,202,204,50
+St. Xavier Kolkata,BCA,CUET,EWS,306,312,314,316,50
+IIIT Hyderabad,Electrical Engineering,JEE,ST,221,215,216,217,70
+Christ University Bengaluru,BBA,CUET,GEN,309,294,294,297,90
+St. Xavier Kolkata,BSc,CUET,OBC,267,250,250,253,90
+St. Xavier Kolkata,BCA,CUET,EWS,266,251,254,257,80
+DU Delhi,BCA,CUET,EWS,290,279,280,281,80
+MIT Pune,Electronics and Communication Engineering,JEE,EWS,219,229,230,233,50
+IIT Bombay,Information Technology,JEE,ST,333,299,299,300,95
+CMC Vellore,Dental,NEET,ST,618,605,606,607,90
+KEM Mumbai,Physiotherapy,NEET,OBC,681,679,680,683,50
+JIPMER Puducherry,Ayurvedic,NEET,GEN,621,616,616,618,70
+NIT Surathkal,Electronics and Communication Engineering,JEE,ST,325,322,323,323,70
+NIT Surathkal,Mechanical Engineering,JEE,GEN,224,214,217,219,80
+KEM Mumbai,MBBS,NEET,EWS,649,649,652,652,50
+VIT Vellore,Electronics and Communication Engineering,JEE,SC,189,194,195,197,50
+MIT Pune,Mechanical Engineering,JEE,SC,355,326,329,329,95
+IIIT Hyderabad,Civil Engineering,JEE,EWS,312,297,300,300,90
+Lady Shri Ram College Delhi,BSc,CUET,OBC,298,284,285,288,90
+Christ University Bengaluru,BSc,CUET,EWS,302,280,282,284,95
+Christ University Bengaluru,BBA,CUET,EWS,268,249,250,253,95
+AIIMS Delhi,Dental,NEET,GEN,518,544,547,549,50
+Christ University Bengaluru,BBA,CUET,ST,320,317,318,319,70
+AIIMS Delhi,Physiotherapy,NEET,OBC,603,615,616,619,50
+MIT Pune,Mechanical Engineering,JEE,EWS,277,264,267,270,80
+IIT Bombay,Electrical Engineering,JEE,EWS,258,263,263,263,50
+PGIMER Chandigarh,Dental,NEET,OBC,629,624,627,628,70
+Lady Shri Ram College Delhi,BSc,CUET,GEN,333,327,328,331,70
+St. Xavier Kolkata,BCA,CUET,GEN,362,348,351,351,90
+Christ University Bengaluru,BBA,CUET,SC,331,316,319,319,90
+Christ University Bengaluru,BSc,CUET,GEN,267,270,272,275,50
+DU Delhi,BSc,CUET,SC,305,296,298,299,80
+NIT Trichy,Electronics and Communication Engineering,JEE,GEN,301,292,292,293,80
+Lady Shri Ram College Delhi,BBA,CUET,EWS,336,316,318,321,95
+St. Xavier Kolkata,BSc,CUET,GEN,307,320,323,324,50
+BITS Pilani,Information Technology,JEE,EWS,234,232,233,233,70
+Christ University Bengaluru,BBA,CUET,ST,292,267,268,269,95
+DU Delhi,BBA,CUET,SC,261,243,244,244,95
+PGIMER Chandigarh,MBBS,NEET,OBC,659,636,636,639,95
+IIT Bombay,Chemical Engineering,JEE,ST,301,272,274,276,95
+CMC Vellore,MBBS,NEET,ST,591,552,553,556,95
+BITS Pilani,Chemical Engineering,JEE,ST,330,306,307,310,95
+Lady Shri Ram College Delhi,BSc,CUET,EWS,298,309,310,310,50
+CMC Vellore,MBBS,NEET,EWS,629,616,617,617,90
+Christ University Bengaluru,BCA,CUET,SC,265,250,251,254,90
+Christ University Bengaluru,BSc,CUET,SC,287,291,292,293,50
+VIT Vellore,Electrical Engineering,JEE,OBC,209,204,207,207,70
+VIT Vellore,Mechanical Engineering,JEE,SC,323,326,328,331,50
+DU Delhi,BCA,CUET,OBC,260,255,256,257,70
+BITS Pilani,Computer Science and Engineering,JEE,EWS,249,254,257,259,50
+St. Xavier Kolkata,BCA,CUET,GEN,264,286,289,289,50
+CMC Vellore,Dental,NEET,GEN,603,580,583,585,95
+St. Xavier Kolkata,BBA,CUET,ST,261,238,241,242,95
+NIT Trichy,Mechanical Engineering,JEE,OBC,203,204,207,210,50
+MIT Pune,Information Technology,JEE,EWS,320,322,324,325,50
+Lady Shri Ram College Delhi,BBA,CUET,GEN,349,340,343,344,80
+NIT Trichy,Mechanical Engineering,JEE,OBC,220,207,210,211,80
+BITS Pilani,Computer Science and Engineering,JEE,GEN,344,338,338,340,70
+DU Delhi,BCA,CUET,OBC,287,297,300,303,50
+CMC Vellore,Ayurvedic,NEET,OBC,555,568,569,572,50
+IIIT Hyderabad,Electronics and Communication Engineering,JEE,GEN,210,215,217,219,50
+NIT Trichy,Electrical Engineering,JEE,GEN,330,318,320,323,80
+PGIMER Chandigarh,Ayurvedic,NEET,EWS,579,560,561,563,95
+St. Xavier Kolkata,BCA,CUET,GEN,283,290,293,296,50
+NIT Surathkal,Civil Engineering,JEE,SC,208,215,215,217,50
+BITS Pilani,Civil Engineering,JEE,GEN,217,219,222,225,50
+PGIMER Chandigarh,Ayurvedic,NEET,GEN,689,659,661,661,95
+NIT Trichy,Civil Engineering,JEE,EWS,218,215,216,217,70
+Christ University Bengaluru,BSc,CUET,SC,245,244,245,248,50
+JIPMER Puducherry,MBBS,NEET,SC,648,622,625,625,95
+Christ University Bengaluru,BSc,CUET,GEN,310,295,295,296,90
+CMC Vellore,MBBS,NEET,OBC,595,589,589,591,70
+Christ University Bengaluru,BSc,CUET,GEN,344,348,348,351,50
+Lady Shri Ram College Delhi,BSc,CUET,GEN,314,324,324,324,50
+CMC Vellore,Dental,NEET,OBC,554,536,539,542,90
+KEM Mumbai,Ayurvedic,NEET,EWS,609,595,595,597,90
+NIT Surathkal,Electrical Engineering,JEE,GEN,339,329,331,333,80
+Christ University Bengaluru,BBA,CUET,GEN,332,343,345,347,50
+AIIMS Delhi,Dental,NEET,GEN,537,545,548,548,50
+St. Xavier Kolkata,BBA,CUET,SC,314,313,314,317,50
+Lady Shri Ram College Delhi,BSc,CUET,SC,321,290,293,296,95
+IIIT Hyderabad,Civil Engineering,JEE,EWS,240,232,235,238,70
+St. Xavier Kolkata,BSc,CUET,OBC,343,344,344,345,50
+AIIMS Delhi,Ayurvedic,NEET,EWS,618,637,640,641,50
+IIIT Hyderabad,Civil Engineering,JEE,GEN,300,290,290,292,80
+PGIMER Chandigarh,Ayurvedic,NEET,ST,669,638,639,639,95
+DU Delhi,BBA,CUET,OBC,322,308,309,311,90
+St. Xavier Kolkata,BBA,CUET,ST,308,305,307,308,70
+PGIMER Chandigarh,Physiotherapy,NEET,OBC,634,616,617,618,95
+NIT Surathkal,Electrical Engineering,JEE,ST,313,291,291,294,95
+IIT Bombay,Chemical Engineering,JEE,GEN,187,204,204,205,50
+CMC Vellore,Physiotherapy,NEET,OBC,574,557,557,557,95
+VIT Vellore,Electrical Engineering,JEE,GEN,236,251,252,255,50
+PGIMER Chandigarh,MBBS,NEET,OBC,533,521,521,522,90
+PGIMER Chandigarh,Dental,NEET,SC,544,504,506,509,95
+BITS Pilani,Chemical Engineering,JEE,SC,264,258,258,259,80
+St. Xavier Kolkata,BBA,CUET,ST,245,234,236,239,80
+IIT Bombay,Civil Engineering,JEE,GEN,320,331,332,332,50
+CMC Vellore,Physiotherapy,NEET,OBC,559,563,565,567,50
+KEM Mumbai,Physiotherapy,NEET,GEN,634,650,652,655,50
+KEM Mumbai,Physiotherapy,NEET,EWS,634,616,617,620,90
+VIT Vellore,Computer Science and Engineering,JEE,OBC,224,236,239,242,50
+AIIMS Delhi,Physiotherapy,NEET,ST,693,659,660,661,95
+CMC Vellore,Ayurvedic,NEET,EWS,635,625,627,628,80
+DU Delhi,BBA,CUET,GEN,306,308,309,309,50
+DU Delhi,BBA,CUET,OBC,265,270,270,270,50
+PGIMER Chandigarh,Physiotherapy,NEET,GEN,501,526,529,531,50
+MIT Pune,Computer Science and Engineering,JEE,EWS,353,346,348,351,70
+Christ University Bengaluru,BBA,CUET,SC,304,280,280,282,95
+VIT Vellore,Computer Science and Engineering,JEE,OBC,296,301,302,303,50
+VIT Vellore,Chemical Engineering,JEE,GEN,278,289,291,291,50
+CMC Vellore,MBBS,NEET,ST,649,637,640,641,80
+MIT Pune,Computer Science and Engineering,JEE,SC,199,205,208,208,50
+NIT Trichy,Computer Science and Engineering,JEE,EWS,288,294,295,296,50
+IIT Bombay,Information Technology,JEE,ST,273,261,261,262,90
+AIIMS Delhi,Physiotherapy,NEET,GEN,656,659,659,660,50
+NIT Surathkal,Mechanical Engineering,JEE,GEN,326,337,337,339,50
+CMC Vellore,MBBS,NEET,OBC,636,639,639,640,50
+PGIMER Chandigarh,MBBS,NEET,EWS,556,539,540,540,95
+DU Delhi,BCA,CUET,ST,324,303,306,307,95
+Lady Shri Ram College Delhi,BBA,CUET,SC,312,296,297,298,90
+St. Xavier Kolkata,BSc,CUET,GEN,323,336,337,340,50
+Lady Shri Ram College Delhi,BBA,CUET,EWS,263,252,252,253,90
+IIT Bombay,Chemical Engineering,JEE,ST,316,312,312,314,70
+VIT Vellore,Electronics and Communication Engineering,JEE,EWS,290,287,290,292,50
+NIT Trichy,Computer Science and Engineering,JEE,EWS,262,270,273,274,50
+PGIMER Chandigarh,MBBS,NEET,SC,669,640,643,644,95
+AIIMS Delhi,MBBS,NEET,GEN,534,510,512,512,95
+Christ University Bengaluru,BBA,CUET,GEN,319,313,314,314,80
+NIT Surathkal,Civil Engineering,JEE,GEN,265,249,249,250,95
+Christ University Bengaluru,BCA,CUET,SC,238,246,249,252,50
+CMC Vellore,Dental,NEET,OBC,621,628,631,633,50
+PGIMER Chandigarh,Dental,NEET,SC,675,630,632,635,95
+PGIMER Chandigarh,Dental,NEET,ST,537,519,521,521,95
+JIPMER Puducherry,Physiotherapy,NEET,SC,585,546,548,549,95
+DU Delhi,BSc,CUET,EWS,319,320,321,323,50
+CMC Vellore,Dental,NEET,OBC,586,556,557,558,95
+JIPMER Puducherry,Ayurvedic,NEET,EWS,603,608,611,614,50
+AIIMS Delhi,MBBS,NEET,OBC,615,642,645,646,50
+IIT Delhi,Chemical Engineering,JEE,SC,271,268,269,269,70
+Lady Shri Ram College Delhi,BBA,CUET,GEN,310,291,294,297,90
+MIT Pune,Chemical Engineering,JEE,EWS,214,231,232,233,50
+Christ University Bengaluru,BBA,CUET,SC,279,276,277,277,70
+St. Xavier Kolkata,BSc,CUET,ST,292,285,288,290,70
+IIT Delhi,Mechanical Engineering,JEE,SC,193,197,200,200,50
+IIT Delhi,Mechanical Engineering,JEE,GEN,215,222,225,226,50
+NIT Surathkal,Chemical Engineering,JEE,ST,208,210,213,216,50
+St. Xavier Kolkata,BCA,CUET,ST,312,302,305,306,80
+Christ University Bengaluru,BSc,CUET,GEN,285,299,301,303,50
+NIT Surathkal,Electrical Engineering,JEE,ST,200,189,191,192,80
+PGIMER Chandigarh,MBBS,NEET,ST,522,491,494,495,95
+JIPMER Puducherry,MBBS,NEET,EWS,718,693,693,695,95
+KEM Mumbai,Physiotherapy,NEET,OBC,660,640,643,646,90
+Christ University Bengaluru,BSc,CUET,OBC,275,266,269,272,70
+St. Xavier Kolkata,BBA,CUET,SC,297,288,289,292,80
