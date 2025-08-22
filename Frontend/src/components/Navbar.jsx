@@ -2,23 +2,17 @@ import React, { useState, useEffect } from "react";
 import { Link, useNavigate, useLocation } from "react-router-dom";
 import { Menu, X, Brain, User, LogOut } from 'lucide-react';
 
-function Navbar() {
-  const [isLoggedIn, setIsLoggedIn] = useState(false);
+function Navbar({ token,setToken }) {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
   const navigate = useNavigate();
-  const location = useLocation(); 
-
-  useEffect(() => {
-    const token = localStorage.getItem("token");
-    setIsLoggedIn(!!token);
-  }, []);
-
+  const location = useLocation();
+  const isLoggedIn = !!token; 
 
   const handleLogout = () => {
     localStorage.removeItem("token");    
     localStorage.removeItem("userId");   
     localStorage.removeItem("username");
-    setIsLoggedIn(false); 
+    setToken(null);
     navigate("/");   
   };
 

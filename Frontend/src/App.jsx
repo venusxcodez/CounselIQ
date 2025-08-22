@@ -14,7 +14,6 @@ import ChatWidget from './components/ChatWidget';
 import { useState,useEffect } from 'react';
 
 const PrivateRoute = ({ children,token }) => {
-  // const token = localStorage.getItem('token');
   return token ? children : <Navigate to="/login" replace />;
 };
 
@@ -32,7 +31,7 @@ function App() {
 
   return (
     <Router>
-      <Navbar/>
+      <Navbar token={token} setToken={setToken}/>
       <div className='pt-16'>
       <Routes>
         <Route path='/' element={<Home />} />
